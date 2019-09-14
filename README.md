@@ -18,13 +18,13 @@ The data itself, including symbol names, search metadata, and much more, is bake
 
 This repo contains the data extracted from font files. This data is originally in CSV format. Feel free to explore the columns yourself.
 
-All variants of *San Francisco* font contain the same data:  [SFSymbols.csv](/Extracted/SFSymbols.csv).
+All variants of *San Francisco* font contain the same data:  [SFSymbols.csv](/CSV/SFSymbols.csv).
 
-**SF Symbols app** includes a font resource named `SFSymbolsFallback.ttf`, and it contains different data: [SFSymbolsFallback-symbols.csv](/Extracted/SFSymbolsFallback-symbols.csv).
+**SF Symbols app** includes a font resource named `SFSymbolsFallback.ttf`, and it contains different data: [SFSymbolsFallback-symbols.csv](/CSV/SFSymbolsFallback-symbols.csv).
 
 #### Conversion script
 
-You can use [sfsymbolsconvert.py](/sfsymbolsconvert.py) to extract the encrypted data contained in *San Francisco* font-family files yourself.
+You can use [sfsymbolsconvert.py](/Script/sfsymbolsconvert.py) to extract the encrypted data contained in *San Francisco* font-family files yourself.
 
 First, you need to use [pip](https://pip.pypa.io/en/stable/) to install the dependancies: [Click](https://github.com/pallets/click/), [FontTools](https://github.com/fonttools/fonttools), and [pycrypto](https://github.com/dlitz/pycrypto).
 
