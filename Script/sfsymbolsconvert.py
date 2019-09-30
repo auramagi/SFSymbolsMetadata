@@ -1,7 +1,7 @@
 import click
 
 from fontTools.ttLib import TTFont
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 
 from base64 import b64decode
 from os.path import splitext
