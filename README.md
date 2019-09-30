@@ -26,12 +26,14 @@ All variants of *San Francisco* font contain the same data:  [SFSymbols.csv](/CS
 
 You can use [sfsymbolsconvert.py](/Script/sfsymbolsconvert.py) to extract the encrypted data contained in *San Francisco* font-family files yourself.
 
-First, you need to use [pip](https://pip.pypa.io/en/stable/) to install the dependencies: [Click](https://github.com/pallets/click/), [FontTools](https://github.com/fonttools/fonttools), and [pycryptodomex](https://github.com/Legrandin/pycryptodome).
+The script uses following dependencies: [Click](https://github.com/pallets/click/), [FontTools](https://github.com/fonttools/fonttools), and [PyCryptodome](https://github.com/Legrandin/pycryptodome). You can install them manually through [pip](https://pip.pypa.io/en/stable/):
 
 ```sh
 pip3 install click fonttools pycryptodomex
 ```
-or using [pipenv](https://github.com/pypa/pipenv)
+
+Or using [Pipenv](https://github.com/pypa/pipenv):
+
 ```sh
 pipenv install
 pipenv shell
