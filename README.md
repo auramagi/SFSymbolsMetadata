@@ -16,11 +16,7 @@ The data itself, including symbol names, search metadata, and much more, is bake
 
 #### CSV files
 
-This repo contains the data extracted from font files. This data is originally in CSV format. Feel free to explore the columns yourself.
-
-All variants of *San Francisco* font contain the same data:  [SFSymbols.csv](/CSV/SFSymbols.csv).
-
-**SF Symbols app** includes a font resource named `SFSymbolsFallback.ttf`, and it contains different data: [SFSymbolsFallback-symbols.csv](/CSV/SFSymbolsFallback-symbols.csv).
+This repo contains the data extracted from font files, as it was originally stored. See the [CSV folder](/CSV/).
 
 #### Conversion script
 

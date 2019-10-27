@@ -1,0 +1,1681 @@
+Additional Search Metadata,Categories,Glyph Order,NEW  PUAs,Non-modifiable,Protected Symbol Notes,RTL extension,semantic.name.1,semantic.name.2,semantic.name.3,short.name,unicodes
+"plus, add, create, new, increase",math,1200,10017C,FALSE,,,add,,,plus,XXXXX
+"plus, add, create, new, increase",math,1201,10004C,FALSE,,,add.circle,,,plus.circle,2295
+"plus, add, create, new, increase",math,1202,10004D,FALSE,,,add.circle.fill,,,plus.circle.fill,XXXXX
+"plus, add, create, new, increase",math,1203,1000DC,FALSE,,,add.square,,,plus.square,XXXXX
+"plus, add, create, new, increase",math,1204,1000DD,FALSE,,,add.square.fill,,,plus.square.fill,XXXXX
+"minus, subtract, decrease, delete, remove",math,1205,10017D,FALSE,,,remove,,,minus,XXXXX
+"minus, subtract, decrease, delete, remove",math,1206,10004E,FALSE,,,remove.circle,,,minus.circle,2296
+"minus, subtract, decrease, delete, remove",math,1207,10004F,FALSE,,,remove.circle.fill,,,minus.circle.fill,XXXXX
+"minus, subtract, decrease, delete, remove",math,1208,1000DE,FALSE,,,remove.square,,,minus.square,XXXXX
+"minus, subtract, decrease, delete, remove",math,1209,1000DF,FALSE,,,remove.square.fill,,,minus.square.fill,XXXXX
+"multiply, times",math,1215,10017E,FALSE,,,,,,multiply,XXXXX
+"multiply, times",math,1216,100050,FALSE,,,,,,multiply.circle,2297
+"multiply, times",math,1217,100051,FALSE,,,,,,multiply.circle.fill,XXXXX
+"multiply, times",math,1218,1000E0,FALSE,,,,,,multiply.square,XXXXX
+"multiply, times",math,1219,1000E1,FALSE,,,,,,multiply.square.fill,XXXXX
+,math,1220,10017F,FALSE,,,,,,divide,XXXXX
+,math,1221,100052,FALSE,,,,,,divide.circle,XXXXX
+,math,1222,100053,FALSE,,,,,,divide.circle.fill,XXXXX
+,math,1223,1000E2,FALSE,,,,,,divide.square,XXXXX
+,math,1224,1000E3,FALSE,,,,,,divide.square.fill,XXXXX
+,math,1225,100180,FALSE,,,,,,equal,XXXXX
+,math,1226,100054,FALSE,,,,,,equal.circle,XXXXX
+,math,1227,100055,FALSE,,,,,,equal.circle.fill,XXXXX
+,math,1228,1000E4,FALSE,,,,,,equal.square,XXXXX
+,math,1229,1000E5,FALSE,,,,,,equal.square.fill,XXXXX
+,math,1230,100181,FALSE,,,,,,lessthan,XXXXX
+,math,1231,100058,FALSE,,,,,,lessthan.circle,XXXXX
+,math,1232,100059,FALSE,,,,,,lessthan.circle.fill,XXXXX
+,math,1233,1000E6,FALSE,,,,,,lessthan.square,XXXXX
+,math,1234,1000E7,FALSE,,,,,,lessthan.square.fill,XXXXX
+,math,1235,100182,FALSE,,,,,,greaterthan,XXXXX
+,math,1236,100056,FALSE,,,,,,greaterthan.circle,XXXXX
+,math,1237,100057,FALSE,,,,,,greaterthan.circle.fill,XXXXX
+,math,1238,1000E8,FALSE,,,,,,greaterthan.square,XXXXX
+,math,1239,1000E9,FALSE,,,,,,greaterthan.square.fill,XXXXX
+,math,1241,100183,FALSE,,,,,,number,XXXXX
+,math,1242,10005A,FALSE,,,,,,number.circle,XXXXX
+,math,1243,10005B,FALSE,,,,,,number.circle.fill,XXXXX
+,math,1244,1000EA,FALSE,,,,,,number.square,XXXXX
+,math,1245,1000EB,FALSE,,,,,,number.square.fill,XXXXX
+,,1247,100184,FALSE,,,close,clear,stop,xmark,2717
+,,1248,100060,FALSE,,,close.circle,clear.circle,stop.circle,xmark.circle,XXXXX
+,,1249,100061,FALSE,,,close.circle.fill,clear.circle.fill,stop.circle.fill,xmark.circle.fill,XXXXX
+,,1250,1000F0,FALSE,,,close.square,clear.square,stop.square,xmark.square,XXXXX
+,,1251,1000F1,FALSE,,,close.square.fill,clear.square.fill,stop.square.fill,xmark.square.fill,XXXXX
+,,1252,100185,FALSE,,,selected,,,checkmark,2713
+,,1253,100062,FALSE,,,selected.circle,,,checkmark.circle,XXXXX
+,,1254,100063,FALSE,,,selected.circle.fill,,,checkmark.circle.fill,XXXXX
+,,1255,1000F2,FALSE,,,selected.square,,,checkmark.square,XXXXX
+,,1256,1000F3,FALSE,,,selected.square.fill,,,checkmark.square.fill,XXXXX
+,,270,1001FA,FALSE,,,verified,,,checkmark.seal,XXXXX
+,,271,1001FB,FALSE,,,verified.fill,,,checkmark.seal.fill,XXXXX
+,,272,1001FC,FALSE,,,not.verified,,,xmark.seal,XXXXX
+,,273,1001FD,FALSE,,,not.verified.fill,,,xmark.seal.fill,XXXXX
+,objects & tools,105,1006EF,FALSE,,,,,,rosette,NO
+,,1470,100567,FALSE,,,,,,slash.circle,NO
+,,1471,100568,FALSE,,,,,,slash.circle.fill,NO
+"task, completed",,1464,10075C,FALSE,,,,,,largecircle.fill.circle,NO
+,,1466,100377,FALSE,,,vignette.circle,,,smallcircle.fill.circle,XXXXX
+,,1467,100569,FALSE,,,vignette.circle.fill,,,smallcircle.fill.circle.fill,NO
+,,1468,10056A,FALSE,,,,,,smallcircle.circle,NO
+,,1469,10056B,FALSE,,,,,,smallcircle.circle.fill,NO
+,,1472,10056C,FALSE,,,,,,asterisk.circle,NO
+,,1473,10056D,FALSE,,,,,,asterisk.circle.fill,NO
+,,846,1003DC,FALSE,,,window,,,macwindow,XXXXX
+,,848,1003DD,FALSE,,,,,,uiwindow.split.2x1,XXXXX
+,,850,1003DF,FALSE,,,column.view,,,rectangle.split.3x1,XXXXX
+,,851,100578,FALSE,,,column.view.fill,,,rectangle.split.3x1.fill,NO
+,,863,1003E2,FALSE,,,grid.view,,,rectangle.split.3x3,XXXXX
+,,864,10062E,FALSE,,,grid.view.fill,,,rectangle.split.3x3.fill,NO
+,,852,1003E0,FALSE,,,,,,square.split.2x1,XXXXX
+,,853,10061C,FALSE,,,,,,square.split.2x1.fill,NO
+,,854,100570,FALSE,,,,,,square.split.1x2,NO
+,,855,100571,FALSE,,,,,,square.split.1x2.fill,NO
+,,856,10056E,FALSE,,,,,,square.split.2x2,NO
+,,857,10056F,FALSE,,,,,,square.split.2x2.fill,NO
+,,860,100574,FALSE,,,,,,dot.square,NO
+,,861,100575,FALSE,,,,,,dot.square.fill,NO
+,,274,1001FE,FALSE,,,warning,,,exclamationmark.triangle,26A0
+,,275,1001FF,FALSE,,,warning.fill,,,exclamationmark.triangle.fill,XXXXX
+,,276,100200,FALSE,,,liquid.detect,,,drop.triangle,XXXXX
+,,277,100201,FALSE,,,liquid.detect.fill,,,drop.triangle.fill,XXXXX
+,,1193,100122,FALSE,,,question,,,questionmark.diamond,XXXXX
+,,1194,100123,FALSE,,,question.fill,,,questionmark.diamond.fill,XXXXX
+,,1071,10062F,FALSE,,,,,,exclamationmark.octagon,NO
+,,1072,100630,FALSE,,,,,,exclamationmark.octagon.fill,NO
+,,1073,100489,FALSE,,,error,,,xmark.octagon,NO
+,,1074,10048A,FALSE,,,error.fill,,,xmark.octagon.fill,NO
+,,1149,100307,FALSE,,,drag,,,line.horizontal.3,XXXXX
+,,1150,100713,FALSE,,,,,,line.horizontal.3.decrease,NO
+,,1151,100308,FALSE,,,filter,,,line.horizontal.3.decrease.circle,XXXXX
+,,1152,100309,FALSE,,,filter.fill,,,line.horizontal.3.decrease.circle.fill,XXXXX
+,,0,100202,FALSE,,,share,,,square.and.arrow.up,XXXXX
+,,1,100203,FALSE,,,share.fill,,,square.and.arrow.up.fill,XXXXX
+,,2,100204,FALSE,,,download,,,square.and.arrow.down,XXXXX
+,,3,100205,FALSE,,,download.fill,,,square.and.arrow.down.fill,XXXXX
+,,4,100206,FALSE,,,share.multiple,,,square.and.arrow.up.on.square,XXXXX
+,,5,100207,FALSE,,,share.multiple.fill,,,square.and.arrow.up.on.square.fill,XXXXX
+,,6,100208,FALSE,,,download.multiple,,,square.and.arrow.down.on.square,XXXXX
+,,7,100209,FALSE,,,download.multiple.fill,,,square.and.arrow.down.on.square.fill,XXXXX
+,"objects & tools, editing",8,10020A,FALSE,,,edit,,,pencil,XXXXX
+,"objects & tools, editing",9,10020B,FALSE,,,edit.circle,,,pencil.circle,XXXXX
+,"objects & tools, editing",10,10020C,FALSE,,,edit.circle.fill,,,pencil.circle.fill,XXXXX
+,"objects & tools, editing",11,10020D,FALSE,,,not.editable,,,pencil.slash,XXXXX
+,"objects & tools, editing",12,10020E,FALSE,,,compose,,,square.and.pencil,XXXXX
+,objects & tools,13,10020F,FALSE,,,autofill,,,pencil.and.ellipsis.rectangle,XXXXX
+,"objects & tools, editing",14,100210,FALSE,,,annotate,,,pencil.and.outline,XXXXX
+,"objects & tools, editing",114,10048B,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Markup feature.,,,,,pencil.tip,NO
+,"objects & tools, editing",115,100265,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Markup feature.,,markup,,,pencil.tip.crop.circle,XXXXX
+,"objects & tools, editing",116,100266,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Markup feature.,,add.markup,,,pencil.tip.crop.circle.badge.plus,XXXXX
+,"objects & tools, editing",117,100267,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Markup feature.,,remove.markup,,,pencil.tip.crop.circle.badge.minus,XXXXX
+,editing,1096,1004E8,FALSE,,,draw,,,scribble,NO
+,editing,1097,1004E9,FALSE,,,lasso.select,,,lasso,NO
+,objects & tools,15,100211,FALSE,,,trash,,,trash,XXXXX
+,objects & tools,16,100212,FALSE,,,trash.fill,,,trash.fill,XXXXX
+,objects & tools,19,100727,FALSE,,,,,,trash.slash,NO
+,objects & tools,20,100728,FALSE,,,,,,trash.slash.fill,NO
+,objects & tools,17,100213,FALSE,,,trash.circle,,,trash.circle,XXXXX
+,objects & tools,18,100214,FALSE,,,trash.circle.fill,,,trash.circle.fill,XXXXX
+,objects & tools,21,100215,FALSE,,,move,,,folder,XXXXX
+,objects & tools,22,100216,FALSE,,,move.fill,,,folder.fill,XXXXX
+,objects & tools,23,100217,FALSE,,,move.circle,,,folder.circle,XXXXX
+,objects & tools,24,100218,FALSE,,,move.circle.fill,,,folder.circle.fill,XXXXX
+,objects & tools,25,100219,FALSE,,,new.folder,,,folder.badge.plus,XXXXX
+,objects & tools,26,10021A,FALSE,,,new.folder,,,folder.fill.badge.plus,XXXXX
+,objects & tools,27,10021B,FALSE,,,new.folder,,,folder.badge.minus,XXXXX
+,objects & tools,28,10021C,FALSE,,,new.folder,,,folder.fill.badge.minus,XXXXX
+,objects & tools,29,10021D,FALSE,,,,,,folder.badge.person.crop,XXXXX
+,objects & tools,30,10021E,FALSE,,,,,,folder.fill.badge.person.crop,XXXXX
+,objects & tools,31,10021F,FALSE,,,send,,,paperplane,XXXXX
+,objects & tools,32,100220,FALSE,,,send.fill,,,paperplane.fill,XXXXX
+,objects & tools,35,100223,FALSE,,,mailbox,,,tray,XXXXX
+,objects & tools,36,100224,FALSE,,,mailbox.fill,,,tray.fill,XXXXX
+,objects & tools,39,100225,FALSE,,,outbox,,,tray.and.arrow.up,XXXXX
+,objects & tools,40,100226,FALSE,,,outbox.fill,,,tray.and.arrow.up.fill,XXXXX
+,objects & tools,41,100227,FALSE,,,inbox,,,tray.and.arrow.down,XXXXX
+,objects & tools,42,100228,FALSE,,,inbox.fill,,,tray.and.arrow.down.fill,XXXXX
+,objects & tools,45,10022B,FALSE,,,,,,tray.full,XXXXX
+,objects & tools,46,10022C,FALSE,,,,,,tray.full.fill,XXXXX
+,objects & tools,43,100229,FALSE,,,all.mailboxes,,,tray.2,XXXXX
+,objects & tools,44,10022A,FALSE,,,all.mailboxes.fill,,,tray.2.fill,XXXXX
+,objects & tools,47,10022D,FALSE,,,archive,,,archivebox,XXXXX
+,objects & tools,48,10022E,FALSE,,,archive.fill,,,archivebox.fill,XXXXX
+,objects & tools,51,100231,FALSE,,,junk,,,bin.xmark,XXXXX
+,objects & tools,52,100232,FALSE,,,junk.fill,,,bin.xmark.fill,XXXXX
+,objects & tools,55,100235,FALSE,,,,,,arrow.up.bin,XXXXX
+,objects & tools,56,100236,FALSE,,,,,,arrow.up.bin.fill,XXXXX
+,,57,100237,FALSE,,,document,,,doc,XXXXX
+,,58,100238,FALSE,,,document.fill,,,doc.fill,XXXXX
+,,61,10023B,FALSE,,,,,,arrow.up.doc,XXXXX
+,,62,10023C,FALSE,,,,,,arrow.up.doc.fill,XXXXX
+,,63,10023D,FALSE,,,,,,arrow.down.doc,XXXXX
+,,64,10023E,FALSE,,,,,,arrow.down.doc.fill,XXXXX
+,,59,100239,FALSE,,,document.circle,,,doc.circle,XXXXX
+,,60,10023A,FALSE,,,document.circle.fill,,,doc.circle.fill,XXXXX
+,,65,10023F,FALSE,,,plain.text.document,,,doc.text,XXXXX
+,,66,100240,FALSE,,,plain.text.document.fill,,,doc.text.fill,XXXXX
+,,71,100245,FALSE,,,rich.text.document,,,doc.richtext,XXXXX
+,,72,100246,FALSE,,,,,,doc.plaintext,XXXXX
+,,73,100247,FALSE,,,,,,doc.append,XXXXX
+,,811,1003B9,FALSE,,,scan,,,viewfinder,XXXXX
+,,812,1003BF,FALSE,,,scan.circle,,,viewfinder.circle,XXXXX
+,,813,1003C0,FALSE,,,scan.circle.fill,,,viewfinder.circle.fill,XXXXX
+,objects & tools,816,1003BC,FALSE,,,screenshot,,,camera.viewfinder,XXXXX
+,,814,1003BA,FALSE,,,scan.barcode,,,barcode.viewfinder,XXXXX
+,,815,1003BB,FALSE,,,scan.qr.code,,,qrcode.viewfinder,XXXXX
+,,818,1003BE,FALSE,,,scan.document,,,doc.text.viewfinder,XXXXX
+,,810,100631,FALSE,,,,,,barcode,NO
+,,809,100582,FALSE,,,qr.code,,,qrcode,NO
+,,67,100241,FALSE,,,copy,documents,,doc.on.doc,XXXXX
+,,68,100242,FALSE,,,copy.fill,documents.fill,,doc.on.doc.fill,XXXXX
+,,69,100243,FALSE,,,paste,,,doc.on.clipboard,XXXXX
+,,70,100244,FALSE,,,paste.fill,,,doc.on.clipboard.fill,XXXXX
+,"objects & tools, editing",637,100248,FALSE,,,cut,,,scissors,XXXXX
+,"objects & tools, editing",638,1007B7,FALSE,,,,,,scissors.badge.ellipsis,NO
+,objects & tools,76,100249,FALSE,,,calendar,,,calendar,XXXXX
+,objects & tools,77,10048E,FALSE,,,calendar.circle,,,calendar.circle,NO
+,objects & tools,78,10048F,FALSE,,,calendar.circle.fill,,,calendar.circle.fill,NO
+,objects & tools,79,10024A,FALSE,,,add.to.calendar,,,calendar.badge.plus,XXXXX
+,objects & tools,80,10024B,FALSE,,,remove.from.calendar,,,calendar.badge.minus,XXXXX
+,arrows,81,10024C,FALSE,,,reply,,,arrowshape.turn.up.left,XXXXX
+,arrows,82,10024D,FALSE,,,reply.fill,,,arrowshape.turn.up.left.fill,XXXXX
+,arrows,83,10024E,FALSE,,,reply,,,arrowshape.turn.up.left.circle,XXXXX
+,arrows,84,10024F,FALSE,,,reply.fill,,,arrowshape.turn.up.left.circle.fill,XXXXX
+,arrows,85,100250,FALSE,,,forward,,,arrowshape.turn.up.right,XXXXX
+,arrows,86,100251,FALSE,,,forward.fill,,,arrowshape.turn.up.right.fill,XXXXX
+,arrows,87,100252,FALSE,,,forward,,,arrowshape.turn.up.right.circle,XXXXX
+,arrows,88,100253,FALSE,,,forward.fill,,,arrowshape.turn.up.right.circle.fill,XXXXX
+,arrows,89,100254,FALSE,,,reply.all,,,arrowshape.turn.up.left.2,XXXXX
+,arrows,90,100255,FALSE,,,reply.all.fill,,,arrowshape.turn.up.left.2.fill,XXXXX
+,objects & tools,97,10025A,FALSE,,,books,bookmarks,,book,XXXXX
+,objects & tools,98,10025B,FALSE,,,books.fill,bookmarks.fill,,book.fill,XXXXX
+,objects & tools,99,10025C,FALSE,,,books.circle,bookmarks.circle,,book.circle,XXXXX
+,objects & tools,100,10025D,FALSE,,,books.circle.fill,bookmarks.circle.fill,,book.circle.fill,XXXXX
+,objects & tools,101,10025E,FALSE,,,bookmark,,,bookmark,XXXXX
+,objects & tools,102,10025F,FALSE,,,bookmark.fill,,,bookmark.fill,XXXXX
+,objects & tools,409,1002AB,FALSE,,,search,,,magnifyingglass,XXXXX
+,objects & tools,410,100492,FALSE,,,search.circle,,,magnifyingglass.circle,NO
+,objects & tools,411,100493,FALSE,,,search.circle.fill,,,magnifyingglass.circle.fill,NO
+,objects & tools,412,1002AC,FALSE,,,zoom.in,,,plus.magnifyingglass,XXXXX
+,objects & tools,413,1002AD,FALSE,,,zoom.out,,,minus.magnifyingglass,XXXXX
+,objects & tools,414,1002AE,FALSE,,,zoom.to.actual.size,,,1.magnifyingglass,XXXXX
+,,74,100579,FALSE,,,search.document,,,doc.text.magnifyingglass,NO
+,arrows,1262,100187,FALSE,,,go.up,,,chevron.up,XXXXX
+,arrows,1263,10006E,FALSE,,,go.up.circle,,,chevron.up.circle,XXXXX
+,arrows,1264,10006F,FALSE,,,go.up.circle.fill,,,chevron.up.circle.fill,XXXXX
+,arrows,1265,1000FE,FALSE,,,go.up.square,,,chevron.up.square,XXXXX
+,arrows,1266,1000FF,FALSE,,,go.up.square.fill,,,chevron.up.square.fill,XXXXX
+,arrows,1267,100188,FALSE,,,go.down,,,chevron.down,XXXXX
+,arrows,1268,100070,FALSE,,,go.down.circle,,,chevron.down.circle,XXXXX
+,arrows,1269,100071,FALSE,,,go.down.circle.fill,,,chevron.down.circle.fill,XXXXX
+,arrows,1270,100100,FALSE,,,go.down.square,,,chevron.down.square,XXXXX
+,arrows,1271,100101,FALSE,,,go.down.square.fill,,,chevron.down.square.fill,XXXXX
+,arrows,1272,100189,FALSE,,,go.left,,,chevron.left,XXXXX
+,arrows,1273,100072,FALSE,,,go.left.circle,,,chevron.left.circle,XXXXX
+,arrows,1274,100073,FALSE,,,go.left.circle.fill,,,chevron.left.circle.fill,XXXXX
+,arrows,1275,100102,FALSE,,,go.left.square,,,chevron.left.square,XXXXX
+,arrows,1276,100103,FALSE,,,go.left.square.fill,,,chevron.left.square.fill,XXXXX
+,arrows,1277,10018A,FALSE,,,go.right,,,chevron.right,XXXXX
+,arrows,1278,100074,FALSE,,,go.right.circle,,,chevron.right.circle,XXXXX
+,arrows,1279,100075,FALSE,,,go.right.circle.fill,,,chevron.right.circle.fill,XXXXX
+,arrows,1280,100104,FALSE,,,go.right.square,,,chevron.right.square,XXXXX
+,arrows,1281,100105,FALSE,,,go.right.square.fill,,,chevron.right.square.fill,XXXXX
+,arrows,1286,10018F,FALSE,,,,,,chevron.up.chevron.down,XXXXX
+,arrows,1282,10018B,FALSE,,,,,,chevron.left.2,XXXXX
+,arrows,1283,10018C,FALSE,,,,,,chevron.right.2,XXXXX
+,arrows,1287,100190,FALSE,,,,,,chevron.compact.up,XXXXX
+,arrows,1288,100191,FALSE,,,,,,chevron.compact.down,XXXXX
+,arrows,1289,100192,FALSE,,,,,,chevron.compact.left,XXXXX
+,arrows,1290,100193,FALSE,,,,,,chevron.compact.right,XXXXX
+,objects & tools,106,100262,FALSE,,,attachements,,,paperclip,XXXXX
+,objects & tools,107,100494,FALSE,,,attachements.circle,,,paperclip.circle,NO
+,objects & tools,108,100495,FALSE,,,attachements.circle.fill,,,paperclip.circle.fill,NO
+,objects & tools,109,100496,FALSE,,,include.attachements,,,rectangle.and.paperclip,NO
+,,715,10039E,FALSE,,,home,,,house,XXXXX
+,,716,10039F,FALSE,,,home.fill,,,house.fill,XXXXX
+,,717,1004BC,FALSE,,,,,,music.house,NO
+,,718,1004BD,FALSE,,,,,,music.house.fill,NO
+"user, people",human,119,100269,FALSE,,,,,,person,XXXXX
+"user, people",human,120,10026A,FALSE,,,,,,person.fill,XXXXX
+"user, people",human,121,1004E3,FALSE,,,,,,person.circle,NO
+"user, people",human,122,1004E4,FALSE,,,,,,person.circle.fill,NO
+"user, add, people",human,123,100715,FALSE,,,,,,person.badge.plus,NO
+"user, add, people",human,124,100716,FALSE,,,,,,person.badge.plus.fill,NO
+"user, remove, people",human,125,100717,FALSE,,,,,,person.badge.minus,NO
+"user, remove, people",human,126,100718,FALSE,,,,,,person.badge.minus.fill,NO
+"shared, people",human,129,10026B,FALSE,,,,,,person.2,XXXXX
+"shared, people",human,130,10026C,FALSE,,,,,,person.2.fill,XXXXX
+"shared, group, people",human,131,10074A,FALSE,,,,,,person.3,NO
+"shared, group, people",human,132,10074B,FALSE,,,,,,person.3.fill,NO
+"user, account, contact, people",human,133,10026D,FALSE,,,account,contacts,,person.crop.circle,XXXXX
+"user, account, contact, people",human,134,10026E,FALSE,,,account.fill,contacts.fill,,person.crop.circle.fill,XXXXX
+"user, account, contact, add, people",human,135,10026F,FALSE,,,,,,person.crop.circle.badge.plus,XXXXX
+"user, account, contact, add, people",human,136,100270,FALSE,,,,,,person.crop.circle.fill.badge.plus,XXXXX
+"user, account, contact, remove, people",human,137,100271,FALSE,,,,,,person.crop.circle.badge.minus,XXXXX
+"user, account, contact, remove, people",human,138,100272,FALSE,,,,,,person.crop.circle.fill.badge.minus,XXXXX
+"user, contact, account, people",human,139,100273,FALSE,,,,,,person.crop.circle.badge.checkmark,XXXXX
+"user, contact, account, people",human,140,100274,FALSE,,,,,,person.crop.circle.fill.badge.checkmark,XXXXX
+"user, contact, account, people",human,141,100275,FALSE,,,,,,person.crop.circle.badge.xmark,XXXXX
+"user, contact, account, people",human,142,100276,FALSE,,,,,,person.crop.circle.fill.badge.xmark,XXXXX
+"user, account, contact, error, people",human,143,100277,FALSE,,,,,,person.crop.circle.badge.exclam,XXXXX
+"user, account, contact, error, people",human,144,100278,FALSE,,,,,,person.crop.circle.fill.badge.exclam,XXXXX
+,human,145,100279,FALSE,,,selfie,,,person.crop.square,XXXXX
+,human,146,10027A,FALSE,,,selfie.fill,,,person.crop.square.fill,XXXXX
+privacy,human,994,10027B,FALSE,,,block,privacy,,hand.raised,XXXXX
+privacy,human,995,10027C,FALSE,,,block.fill,privacy.fill,,hand.raised.fill,XXXXX
+privacy,human,996,10027D,FALSE,,,unblock,,,hand.raised.slash,XXXXX
+privacy,human,997,10027E,FALSE,,,unblock.fill,,,hand.raised.slash.fill,XXXXX
+,human,1006,10067D,FALSE,,,,,,hand.point.left,NO
+,human,1007,10067E,FALSE,,,,,,hand.point.left.fill,NO
+,human,1008,10067F,FALSE,,,,,,hand.point.right,NO
+,human,1009,100680,FALSE,,,,,,hand.point.right.fill,NO
+,human,1004,100593,FALSE,,,,,,hand.draw,NO
+,human,1005,100594,FALSE,,,,,,hand.draw.fill,NO
+,human,998,10027F,FALSE,,,like,,,hand.thumbsup,XXXXX
+,human,999,100280,FALSE,,,like.fill,,,hand.thumbsup.fill,XXXXX
+,human,1000,100281,FALSE,,,dislike,,,hand.thumbsdown,XXXXX
+,human,1001,100282,FALSE,,,dislike.fill,,,hand.thumbsdown.fill,XXXXX
+,human,992,100723,FALSE,,,,,,ear,NO
+,editing,1142,100306,FALSE,,,edit,,,slider.horizontal.3,XXXXX
+,editing,938,100417,FALSE,,,,,,slider.horizontal.below.rectangle,XXXXX
+,arrows,461,1002D1,FALSE,,,location.services,,,location,XXXXX
+,arrows,462,1002D2,FALSE,,,location.services.fill,,,location.fill,XXXXX
+,arrows,463,10062C,FALSE,,,location.services.off,,,location.slash,NO
+,arrows,464,10062D,FALSE,,,location.services.off.fill,,,location.slash.fill,NO
+,arrows,465,1002D3,FALSE,,,orient.to.phone,,,location.north,XXXXX
+,arrows,466,1002D4,FALSE,,,orient.to.phone.fill,,,location.north.fill,XXXXX
+,arrows,467,1002D5,FALSE,,,orient.to.phone.circle,,,location.circle,XXXXX
+,arrows,468,1002D6,FALSE,,,orient.to.phone.circle.fill,,,location.circle.fill,XXXXX
+,arrows,469,1002D7,FALSE,,,orient.to.north,,,location.north.line,XXXXX
+,arrows,470,1002D8,FALSE,,,orient.to.north.fill,,,location.north.line.fill,XXXXX
+,health,429,1002B4,FALSE,,,love,,,heart,
+,health,430,1002B5,FALSE,,,love.fill,,,heart.fill,
+,,433,1002B6,FALSE,,,unlove,,,heart.slash,XXXXX
+,,434,1002B7,FALSE,,,unlove.fill,,,heart.slash.fill,XXXXX
+,health,431,1002B8,FALSE,,,love.circle,,,heart.circle,XXXXX
+,health,432,1002B9,FALSE,,,love.circle.fill,,,heart.circle.fill,XXXXX
+,,435,1002BA,FALSE,,,unlove.circle,,,heart.slash.circle,XXXXX
+,,436,1002BB,FALSE,,,unlove.circle.fill,,,heart.slash.circle.fill,XXXXX
+,,421,100482,FALSE,,,,,,suit.heart,2661
+,,422,1002BC,FALSE,,,,,,suit.heart.fill,2665
+,,423,100483,FALSE,,,,,,suit.club,2667
+,,424,1002BD,FALSE,,,,,,suit.club.fill,2663
+,,427,100484,FALSE,,,,,,suit.diamond,2662
+,,428,1002BF,FALSE,,,,,,suit.diamond.fill,2666
+,,425,100485,FALSE,,,,,,suit.spade,2664
+,,426,1002BE,FALSE,,,,,,suit.spade.fill,2660
+,,441,1002C0,FALSE,,,,,,rhombus,XXXX
+,,442,1002C1,FALSE,,,,,,rhombus.fill,XXXXX
+,,443,1002C2,FALSE,,,favorites,,,star,2606
+,,444,1002C3,FALSE,,,favorites.fill,,,star.fill,2605
+,,445,1002C4,FALSE,,,,,,star.lefthalf.fill,XXXXX
+,,450,1002C7,FALSE,,,remove.favorite,,,star.slash,XXXXX
+,,451,1002C8,FALSE,,,remove.favorite.fill,,,star.slash.fill,XXXXX
+,,448,1002C5,FALSE,,,favorites.circle,,,star.circle,XXXXX
+,,449,1002C6,FALSE,,,favorites.circle.fill,,,star.circle.fill,XXXXX
+,objects & tools,453,1002C9,FALSE,,,flag,,,flag,XXXXX
+,objects & tools,454,1002CA,FALSE,,,flag.fill,,,flag.fill,XXXXX
+,objects & tools,455,1002CB,FALSE,,,flag.circle,,,flag.circle,XXXXX
+,objects & tools,456,1002CC,FALSE,,,flag.circle.fill,,,flag.circle.fill,XXXXX
+,objects & tools,457,1002CD,FALSE,,,remove.flag,,,flag.slash,XXXXX
+,objects & tools,458,1002CE,FALSE,,,remove.flag.fill,,,flag.slash.fill,XXXXX
+,objects & tools,471,1002D9,FALSE,,,notifications,,,bell,XXXXX
+,objects & tools,472,1002DA,FALSE,,,notifications.fill,,,bell.fill,XXXXX
+,objects & tools,473,1002DB,FALSE,,,notifications.circle,,,bell.circle,XXXXX
+,objects & tools,474,1002DC,FALSE,,,notifications.circle.fill,,,bell.circle.fill,XXXXX
+,objects & tools,475,1002DD,FALSE,,,notifications.off,,,bell.slash,XXXXX
+,objects & tools,476,1002DE,FALSE,,,notifications.off.fill,,,bell.slash.fill,XXXXX
+,objects & tools,481,1002E1,FALSE,,,tag,,,tag,XXXXX
+,objects & tools,482,1002E2,FALSE,,,tag.fill,,,tag.fill,XXXXX
+,objects & tools,483,1002E3,FALSE,,,tag.circle,,,tag.circle,XXXXX
+,objects & tools,484,1002E4,FALSE,,,tag.circle.fill,,,tag.circle.fill,XXXXX
+,nature,485,1002E5,FALSE,,,flash,,,bolt,XXXXX
+,nature,486,1002E6,FALSE,,,flash.fill,,,bolt.fill,XXXXX
+,nature,487,1002E7,FALSE,,,flash.circle,,,bolt.circle,XXXXX
+,nature,488,1002E8,FALSE,,,flash.circle.fill,,,bolt.circle.fill,XXXXX
+,,493,100633,FALSE,,,flash.auto,,,bolt.badge.a,NO
+,,494,100634,FALSE,,,flash.auto.fill,,,bolt.badge.a.fill,NO
+,nature,489,1002E9,FALSE,,,flash.off,,,bolt.slash,XXXXX
+,nature,490,1002EA,FALSE,,,flash.off.fill,,,bolt.slash.fill,XXXXX
+,,1075,100497,FALSE,,,disconnect,,,bolt.horizontal,NO
+,,1076,100498,FALSE,,,disconnect.fill,,,bolt.horizontal.fill,NO
+,,1077,100499,FALSE,,,disconnect.circle,,,bolt.horizontal.circle,NO
+,,1078,10049A,FALSE,,,disconnect.circle.fill,,,bolt.horizontal.circle.fill,NO
+,objects & tools,319,1002A0,FALSE,,,volume.lowest,,,speaker,XXXXX
+,objects & tools,320,1002A1,FALSE,,,volume.lowest.fill,,,speaker.fill,XXXXX
+,objects & tools,321,1002A2,FALSE,,,sound.off,,,speaker.slash,XXXXX
+,objects & tools,322,1002A3,FALSE,,,sound.off.fill,,,speaker.slash.fill,XXXXX
+,objects & tools,323,100639,FALSE,,rtl,sound.off.rtl,,,speaker.slash.rtl,NO
+,objects & tools,324,10063A,FALSE,,rtl,sound.off.fill.rtl,,,speaker.slash.fill.rtl,NO
+,objects & tools,333,1002A4,FALSE,,,volume.low,,,speaker.1,XXXXX
+,objects & tools,334,1002A5,FALSE,,,volume.low.fill,,,speaker.1.fill,XXXXX
+,objects & tools,335,1002A6,FALSE,,,volume.high,,,speaker.2,XXXXX
+,objects & tools,336,1002A7,FALSE,,,volume.high.fill,,,speaker.2.fill,XXXXX
+,objects & tools,337,1002A8,FALSE,,,volume.highest,,,speaker.3,XXXXX
+,objects & tools,338,1002A9,FALSE,,,volume.highest.fill,,,speaker.3.fill,XXXXX
+,objects & tools,325,10030A,FALSE,,,,,,speaker.zzz,NO
+,objects & tools,326,10045E,FALSE,,,,,,speaker.zzz.fill,NO
+,objects & tools,327,10073F,FALSE,,rtl,,,,speaker.zzz.rtl,NO
+,objects & tools,328,100740,FALSE,,rtl,,,,speaker.zzz.fill.rtl,NO
+,"connectivity, objects & tools",773,100580,FALSE,,,cellular.data,,,antenna.radiowaves.left.and.right,NO
+,,1181,100173,FALSE,,,info,,,info,XXXXX
+,,1182,100174,FALSE,,,info.circle,,,info.circle,XXXXX
+,,1183,100175,FALSE,,,info.circle.fill,,,info.circle.fill,XXXXX
+a,text formatting,1155,10014F,FALSE,,,,,,a,XXXXX
+a,text formatting,1160,1004E2,FALSE,,,superscript,,,textformat.superscript,NO
+a,text formatting,1159,1004E1,FALSE,,,subscript,,,textformat.subscript,NO
+aa,text formatting,1158,100152,FALSE,,,text.formatting,,,textformat,XXXXX
+aa,text formatting,1157,100151,FALSE,,,text.formatting,,,textformat.alt,XXXXX
+aa,text formatting,1156,100150,FALSE,,,change.text.size,,,textformat.size,XXXXX
+,text formatting,1177,10016F,FALSE,,,,,,textformat.abc,XXXXX
+,text formatting,1178,100170,FALSE,,,underline,,,textformat.abc.dottedunderline,XXXXX
+,text formatting,1179,100171,FALSE,,,,,,textformat.123,XXXXX
+,text formatting,1169,10016B,FALSE,,,insert.text,,,text.cursor,XXXXX
+,text formatting,1184,100176,FALSE,,,insert.textbox,,,textbox,XXXXX
+,text formatting,1161,100153,FALSE,,,bold,,,bold,XXXXX
+,text formatting,1162,100154,FALSE,,,italic,,,italic,XXXXX
+,text formatting,1163,100155,FALSE,,,underline,,,underline,XXXXX
+,text formatting,1164,100156,FALSE,,,strike.through,,,strikethrough,XXXXX
+,text formatting,1165,100157,FALSE,,,text.formatting.biu,,,bold.italic.underline,XXXXX
+,text formatting,1166,100158,FALSE,,,text.formatting.bu,,,bold.underline,XXXXX
+,text formatting,1067,100486,FALSE,,,,,,paragraph,NO
+,math,1246,1004EA,FALSE,,,function.x,,,x.squareroot,NO
+,,1170,10016C,FALSE,,,function.fx,,,fx,XXXXX
+,math,1176,10016E,FALSE,,,function,,,function,XXXXX
+,,1171,10016D,FALSE,,,function.fstop,,,f.cursive,XXXXX
+,,1172,100767,FALSE,,,,,,f.cursive.circle,NO
+,,1173,100768,FALSE,,,,,,f.cursive.circle.fill,NO
+,math,1174,10063D,FALSE,,,,,,sum,NO
+,math,1175,10063E,FALSE,,,,,,percent,NO
+,,1167,100159,FALSE,,,show.in.2d,,,view.2d,XXXXX
+,,1168,10016A,FALSE,,,show.in.3d,,,view.3d,XXXXX
+,,1185,100177,FALSE,,,connect,,,at,XXXXX
+,,1186,100178,FALSE,,,,,,at.badge.plus,XXXXX
+,,1187,100179,FALSE,,,,,,at.badge.minus,XXXXX
+,math,1213,10017A,FALSE,,,,,,plus.slash.minus,XXXXX
+,math,1214,10017B,FALSE,,,,,,minus.slash.plus,XXXXX
+,math,1210,1006FA,FALSE,,,,,,plusminus,NO
+,math,1211,100376,FALSE,,,exposure,,,plusminus.circle,XXXXX
+,math,1212,10061D,FALSE,,,exposure.fill,,,plusminus.circle.fill,NO
+,,1188,10014D,FALSE,,,,,,questionmark,XXXXX
+,,1195,10014E,FALSE,,,,,,exclamationmark,XXXXX
+,objects & tools,540,10074C,FALSE,,,flashlight.fill,,,flashlight.off.fill,NO
+,objects & tools,541,10078B,FALSE,,,,,,flashlight.on.fill,NO
+,arrows,1413,10014A,FALSE,,,enter.full.screen,,,arrow.up.left.and.arrow.down.right,XXXXX
+,arrows,1414,10014B,FALSE,,,exit.full.screen,,,arrow.down.right.and.arrow.up.left,XXXXX
+,,503,10030B,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud,,,icloud,XXXXX
+,,504,10030C,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.fill,,,icloud.fill,XXXXX
+,,505,10030D,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.circle,,,icloud.circle,XXXXX
+,,506,10030E,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.circle.fill,,,icloud.circle.fill,XXXXX
+,,507,10030F,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,not.uploaded.to.icloud,,,icloud.slash,XXXXX
+,,508,100310,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,not.uploaded.to.icloud.fill,,,icloud.slash.fill,XXXXX
+,,509,100311,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.upload.error,,,exclamationmark.icloud,XXXXX
+,,510,100312,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.upload.error.fill,,,exclamationmark.icloud.fill,XXXXX
+,,511,100313,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,removed.from.icloud,,,xmark.icloud,XXXXX
+,,512,100314,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,removed.from.icloud.fill,,,xmark.icloud.fill,XXXXX
+,,513,10049E,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.attachement,,,link.icloud,NO
+,,514,10049F,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.attachement.fill,,,link.icloud.fill,NO
+,,515,10063F,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,disconnected.from.icloud,,,bolt.horizontal.icloud,NO
+,,516,100640,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,disconnected.from.icloud.fill,,,bolt.horizontal.icloud.fill,NO
+,,517,100673,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,person.icloud,NO
+,,518,100674,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,person.icloud.fill,NO
+,,519,100675,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,lock.icloud,NO
+,,520,100676,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,lock.icloud.fill,NO
+,,521,100677,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,arrow.clockwise.icloud,NO
+,,522,100678,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,arrow.clockwise.icloud.fill,NO
+,,523,100679,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,arrow.counterclockwise.icloud,NO
+,,524,10067A,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,,,,arrow.counterclockwise.icloud.fill,NO
+,,525,100315,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.download,,,icloud.and.arrow.down,XXXXX
+,,526,100316,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.download.fill,,,icloud.and.arrow.down.fill,XXXXX
+,,529,100317,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.upload,,,icloud.and.arrow.up,XXXXX
+,,530,100318,TRUE,This symbol may not be modified and may only be used to refer to Apple’s iCloud service.,,icloud.upload.fill,,,icloud.and.arrow.up.fill,XXXXX
+,,163,10071A,FALSE,,,,,,circle.bottomthird.split,NO
+,keyboard,240,1001ED,FALSE,,,keyboard.backlight.lower,,,light.min,XXXXX
+,keyboard,241,1001EE,FALSE,,,keyboard.backlight.higher,,,light.max,XXXXX
+weather,"weather, keyboard",168,1001AB,FALSE,,,brightness.lower,,,sun.min,XXXXX
+weather,"weather, keyboard",169,1001AC,FALSE,,,brightness.lower.fill,,,sun.min.fill,XXXXX
+weather,"weather, keyboard",170,1001AD,FALSE,,,brightness.higher,,,sun.max,XXXXX
+weather,"weather, keyboard",171,1001AE,FALSE,,,brightness.higher.fill,,,sun.max.fill,XXXXX
+weather,weather,174,1001B1,FALSE,,,sunrise,,,sunrise,XXXXX
+weather,weather,175,1001B2,FALSE,,,sunrise.fill,,,sunrise.fill,XXXXX
+weather,weather,176,1001B3,FALSE,,,sunset,,,sunset,XXXXX
+weather,weather,177,1001B4,FALSE,,,sunset.fill,,,sunset.fill,XXXXX
+weather,weather,178,1001B5,FALSE,,,,,,sun.dust,XXXXX
+weather,weather,179,1001B6,FALSE,,,,,,sun.dust.fill,XXXXX
+weather,weather,180,1001B7,FALSE,,,,,,sun.haze,XXXXX
+weather,weather,181,1001B8,FALSE,,,,,,sun.haze.fill,XXXXX
+weather,weather,182,1001B9,FALSE,,,do.not.disturb,,,moon,XXXXX
+weather,weather,183,1001BA,FALSE,,,do.not.disturb.fill,,,moon.fill,263E
+weather,weather,184,1001BB,FALSE,,,do.not.disturb.circle,,,moon.circle,XXXXX
+weather,weather,185,1001BC,FALSE,,,do.not.disturb.circle.fill,,,moon.circle.fill,XXXXX
+weather,weather,186,100583,FALSE,,,,,,zzz,NO
+weather,weather,187,1001BD,FALSE,,,snooze.zzz,,,moon.zzz,XXXXX
+weather,weather,188,1001BE,FALSE,,,snooze.zzz.fill,,,moon.zzz.fill,XXXXX
+weather,weather,189,1001BF,FALSE,,,sparkle,,,sparkles,XXXXX
+weather,weather,190,1001C0,FALSE,,,clear.night,,,moon.stars,XXXXX
+weather,weather,191,1001C1,FALSE,,,clear.night.fill,,,moon.stars.fill,XXXXX
+weather,weather,192,1001C2,FALSE,,,mostly.cloudy,,,cloud,XXXXX
+weather,weather,193,1001C3,FALSE,,,mostly.cloudy.fill,,,cloud.fill,XXXXX
+weather,weather,194,1001C4,FALSE,,,drizzle,,,cloud.drizzle,XXXXX
+weather,weather,195,1001C5,FALSE,,,drizzle.fill,,,cloud.drizzle.fill,XXXXX
+weather,weather,196,1001C6,FALSE,,,rain,,,cloud.rain,XXXXX
+weather,weather,197,1001C7,FALSE,,,rain.fill,,,cloud.rain.fill,XXXXX
+weather,weather,198,1001C8,FALSE,,,heavy.rain,,,cloud.heavyrain,XXXXX
+weather,weather,199,1001C9,FALSE,,,heavy.rain.fill,,,cloud.heavyrain.fill,XXXXX
+weather,weather,200,1001CA,FALSE,,,fog,,,cloud.fog,XXXXX
+weather,weather,201,1001CB,FALSE,,,fog.fill,,,cloud.fog.fill,XXXXX
+weather,weather,202,1001CC,FALSE,,,hail,,,cloud.hail,XXXXX
+weather,weather,203,1001CD,FALSE,,,hail.fill,,,cloud.hail.fill,XXXXX
+weather,weather,204,1001CE,FALSE,,,blizzard,,,cloud.snow,XXXXX
+weather,weather,205,1001CF,FALSE,,,blizzard.fill,,,cloud.snow.fill,XXXXX
+weather,weather,206,1001D0,FALSE,,,sleet,,,cloud.sleet,XXXXX
+weather,weather,207,1001D1,FALSE,,,sleet.fill,,,cloud.sleet.fill,XXXXX
+weather,weather,208,1001D2,FALSE,,,severe.thunderstorm,,,cloud.bolt,XXXXX
+weather,weather,209,1001D3,FALSE,,,severe.thunderstorm.fill,,,cloud.bolt.fill,XXXXX
+weather,weather,210,1001D4,FALSE,,,partly.cloudy,,,cloud.sun,XXXXX
+weather,weather,211,1001D5,FALSE,,,partly.cloudy.fill,,,cloud.sun.fill,XXXXX
+weather,weather,212,1001D6,FALSE,,,scattered.showers,,,cloud.sun.rain,XXXXX
+weather,weather,213,1001D7,FALSE,,,scattered.showers.fill,,,cloud.sun.rain.fill,XXXXX
+weather,weather,214,1001D8,FALSE,,,scattered.thunderstorm,,,cloud.sun.bolt,XXXXX
+weather,weather,215,1001D9,FALSE,,,scattered.thunderstorm.fill,,,cloud.sun.bolt.fill,XXXXX
+weather,weather,216,1001DA,FALSE,,,partly.cloudy.night,,,cloud.moon,XXXXX
+weather,weather,217,1001DB,FALSE,,,partly.cloudy.night.fill,,,cloud.moon.fill,XXXXX
+weather,weather,218,1001DC,FALSE,,,rainy.night,,,cloud.moon.rain,XXXXX
+weather,weather,219,1001DD,FALSE,,,rainy.night.fill,,,cloud.moon.rain.fill,XXXXX
+weather,weather,220,1001DE,FALSE,,,mix.rainfall,,,cloud.bolt.rain,XXXXX
+weather,weather,221,1001DF,FALSE,,,mix.rainfall.fill,,,cloud.bolt.rain.fill,XXXXX
+weather,weather,222,1001E0,FALSE,,,scattered.thunderstorm.night,,,cloud.moon.bolt,XXXXX
+weather,weather,223,1001E1,FALSE,,,scattered.thunderstorm.night.fill,,,cloud.moon.bolt.fill,XXXXX
+weather,weather,224,1001E2,FALSE,,,smoke,,,smoke,XXXXX
+weather,weather,225,1001E3,FALSE,,,smoke.fill,,,smoke.fill,XXXXX
+weather,weather,226,1001E4,FALSE,,,breezy,,,wind,XXXXX
+weather,weather,227,1001E5,FALSE,,,snow.flurry,,,snow,XXXXX
+weather,weather,228,1001E6,FALSE,,,blowing.snow,,,wind.snow,XXXXX
+weather,weather,229,1001E7,FALSE,,,tornado,,,tornado,XXXXX
+weather,weather,230,1001E8,FALSE,,,tropical.storm,,,tropicalstorm,XXXXX
+weather,weather,231,1001E9,FALSE,,,hurricane,,,hurricane,XXXXX
+weather,weather,232,1001EA,FALSE,,,hot,,,thermometer.sun,XXXXX
+weather,weather,233,1001EB,FALSE,,,ice,,,thermometer.snowflake,XXXXX
+weather,weather,234,1001EC,FALSE,,,,,,thermometer,XXXXX
+,text formatting,1121,1002F4,FALSE,,,numbered.list.number,,,list.number,XXXXX
+,text formatting,1122,100641,FALSE,,rtl,numbered.list.number.rtl,,,list.number.rtl,NO
+,text formatting,1118,1002F1,FALSE,,,list,,,list.dash,XXXXX
+,text formatting,1119,1002F2,FALSE,,,bulleted.list,,,list.bullet,XXXXX
+,text formatting,1120,1002F3,FALSE,,,bulletest.list.indent,,,list.bullet.indent,XXXXX
+,,1127,1002F7,FALSE,,,split.view.vertically,,,list.bullet.below.rectangle,XXXXX
+,text formatting,1126,100780,FALSE,,,,,,increase.quotelevel,NO
+,text formatting,1125,10077F,FALSE,,,,,,decrease.quotelevel,NO
+,text formatting,1123,1002F5,FALSE,,,,,,increase.indent,NO
+,text formatting,1124,1002F6,FALSE,,,,,,decrease.indent,NO
+,,1128,1002F8,FALSE,,,add.list,,,text.badge.plus,XXXXX
+,,1129,1002F9,FALSE,,,remove.list,,,text.badge.minus,XXXXX
+,,1130,1002FA,FALSE,,,,,,text.badge.checkmark,XXXXX
+,,1131,1002FB,FALSE,,,,,,text.badge.xmark,XXXXX
+,,1132,1002FC,FALSE,,,wishlist,,,text.badge.star,XXXXX
+,,1133,1002FD,FALSE,,,move.to.top.of.list,,,text.insert,XXXXX
+,,1134,1002FE,FALSE,,,move.to.bottom.of.list,,,text.append,XXXXX
+,,1135,1002FF,FALSE,,,lyrics,,,text.quote,XXXXX
+,text formatting,1136,100300,FALSE,,,align.left,,,text.alignleft,XXXXX
+,text formatting,1137,100301,FALSE,,,align.center,,,text.aligncenter,XXXXX
+,text formatting,1138,100302,FALSE,,,align.right,,,text.alignright,XXXXX
+,text formatting,1139,100303,FALSE,,,justify,,,text.justify,XXXXX
+,text formatting,1140,100304,FALSE,,,justify.left,,,text.justifyleft,XXXXX
+,text formatting,1141,100305,FALSE,,,justify.right,,,text.justifyright,XXXXX
+,connectivity,769,100319,FALSE,,,radio,,,dot.radiowaves.left.and.right,XXXXX
+,connectivity,770,100592,FALSE,,,,,,dot.radiowaves.right,NO
+,connectivity,771,100671,FALSE,,,,,,radiowaves.left,NO
+,connectivity,772,100672,FALSE,,,,,,radiowaves.right,NO
+,,339,1002AA,FALSE,,,add.station,,,badge.plus.radiowaves.right,XXXXX
+,human,495,1002ED,FALSE,,,show,,,eye,XXXXX
+,human,496,1002EE,FALSE,,,show.fill,,,eye.fill,XXXXX
+,"human, editing",499,1002EF,FALSE,,,hide,remove.red.eye,,eye.slash,XXXXX
+,"human, editing",500,1002F0,FALSE,,,hide.fill,remove.red.eye.fill,,eye.slash.fill,XXXXX
+,nature,534,10031A,FALSE,,,report.issue,,,ant,XXXXX
+,nature,535,10031B,FALSE,,,report.issue.fill,,,ant.fill,XXXXX
+,nature,536,10031C,FALSE,,,report.issue.circle,,,ant.circle,XXXXX
+,nature,537,10031D,FALSE,,,report.issue.circle.fill,,,ant.circle.fill,XXXXX
+,nature,795,1004CE,FALSE,,,increase.speed,,,hare,XXXXX
+,nature,796,1004CF,FALSE,,,increase.speed.fill,,,hare.fill,XXXXX
+,nature,797,1004D0,FALSE,,,decrease.speed,,,tortoise,XXXXX
+,nature,798,1004D1,FALSE,,,decrease.speed.fill,,,tortoise.fill,XXXXX
+,objects & tools,542,10031E,FALSE,,,camera,,,camera,XXXXX
+,objects & tools,543,10031F,FALSE,,,camera.fill,,,camera.fill,XXXXX
+,objects & tools,544,100320,FALSE,,,camera.circle,,,camera.circle,XXXXX
+,objects & tools,545,100321,FALSE,,,camera.circle.fill,,,camera.circle.fill,XXXXX
+,objects & tools,550,100741,FALSE,,,,,,camera.on.rectangle,NO
+,objects & tools,551,100742,FALSE,,,,,,camera.on.rectangle.fill,NO
+,objects & tools,546,100322,FALSE,,,switch.camera,,,camera.rotate,XXXXX
+,objects & tools,547,100323,FALSE,,,switch.camera.fill,,,camera.rotate.fill,XXXXX
+,communication,552,100324,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Messages app.,,message,,,message,XXXXX
+,communication,553,100325,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Messages app.,,message.fill,,,message.fill,XXXXX
+,communication,554,100326,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Messages app.,,message.circle,,,message.circle,XXXXX
+,communication,555,100327,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Messages app.,,message.circle.fill,,,message.circle.fill,XXXXX
+,communication,560,100328,FALSE,,,comment.right,,,bubble.right,XXXXX
+,communication,561,100329,FALSE,,,comment.right.fill,,,bubble.right.fill,XXXXX
+,communication,562,10032A,FALSE,,,comment.left,,,bubble.left,XXXXX
+,communication,563,10032B,FALSE,,,comment.left.fill,,,bubble.left.fill,XXXXX
+,communication,564,10032C,FALSE,,,report,,,exclamationmark.bubble,XXXXX
+,communication,565,10032D,FALSE,,,report.fill,,,exclamationmark.bubble.fill,XXXXX
+,communication,576,10057A,FALSE,,,,,,ellipses.bubble,NO
+,communication,577,10057B,FALSE,,,,,,ellipses.bubble.fill,NO
+,communication,566,10032E,FALSE,,,,,,quote.bubble,XXXXX
+,communication,567,10032F,FALSE,,,,,,quote.bubble.fill,XXXXX
+,communication,568,100330,FALSE,,,,,,t.bubble,XXXXX
+,communication,569,100331,FALSE,,,,,,t.bubble.fill,XXXXX
+,communication,570,100332,FALSE,,,comment.lines,,,text.bubble,XXXXX
+,communication,571,100333,FALSE,,,comment.lines.fill,,,text.bubble.fill,XXXXX
+,communication,572,100334,FALSE,,,captions,,,captions.bubble,XXXXX
+,communication,573,100335,FALSE,,,captions.fill,,,captions.bubble.fill,XXXXX
+,communication,574,100336,FALSE,,,comment,,,plus.bubble,XXXXX
+,communication,575,100337,FALSE,,,comment.fill,,,plus.bubble.fill,XXXXX
+,communication,584,1004A4,FALSE,,,conversation,,,bubble.left.and.bubble.right,NO
+,communication,585,100632,FALSE,,,conversation.fill,,,bubble.left.and.bubble.right.fill,NO
+,,578,100338,FALSE,,,,,,bubble.middle.bottom,XXXXX
+,,579,100339,FALSE,,,,,,bubble.middle.bottom.fill,XXXXX
+,,582,10033C,FALSE,,,,,,bubble.middle.top,XXXXX
+,,583,10033D,FALSE,,,,,,bubble.middle.top.fill,XXXXX
+,communication,586,10033E,FALSE,,,call,,,phone,XXXXX
+,communication,587,10033F,FALSE,,,call.fill,,,phone.fill,XXXXX
+,communication,588,1004A5,FALSE,,,call.circle,,,phone.circle,NO
+,communication,589,1004A6,FALSE,,,call.circle.fill,,,phone.circle.fill,NO
+,communication,592,100340,FALSE,,,outgoing.call,,,phone.arrow.up.right,XXXXX
+,communication,593,100341,FALSE,,,outgoing.call,,,phone.fill.arrow.up.right,XXXXX
+,communication,594,100342,FALSE,,,incoming.call,,,phone.arrow.down.left,XXXXX
+,communication,595,100343,FALSE,,,incoming.call,,,phone.fill.arrow.down.left,XXXXX
+,communication,596,100344,FALSE,,,call.forwarding,,,phone.arrow.right,XXXXX
+,communication,597,100345,FALSE,,,call.forwarding,,,phone.fill.arrow.right,XXXXX
+,communication,590,10058E,FALSE,,,add.to.call,,,phone.badge.plus,NO
+,communication,591,10058F,FALSE,,,add.to.call,,,phone.fill.badge.plus,NO
+,communication,598,100346,FALSE,,,hang.up,,,phone.down,XXXXX
+,communication,599,100347,FALSE,,,hang.up.fill,,,phone.down.fill,XXXXX
+,communication,600,1004A7,FALSE,,,hang.up.circle,,,phone.down.circle,NO
+,communication,601,1004A8,FALSE,,,hang.up.circle.fill,,,phone.down.circle.fill,NO
+,communication,602,100348,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Teletype feature.,,tty,,,teletype,XXXXX
+,communication,605,100670,TRUE,This symbol may not be modified and may only be used to refer to Apple’s real-time text feature.,,,,,teletype.answer,NO
+,,1098,10057C,FALSE,,,voicemail,,,recordingtape,NO
+facetime,communication,606,100349,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.video.call,video.camera,,video,XXXXX
+facetime,communication,607,10034A,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.video.call.fill,video.camera.fill,,video.fill,XXXXX
+facetime,communication,608,10034B,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.video.call.circle,video.camera.circle,,video.circle,XXXXX
+facetime,communication,609,10034C,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.video.call.circle.fill,video.camera.circle.fill,,video.circle.fill,XXXXX
+facetime,communication,610,10034D,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,video.camera.off,,,video.slash,XXXXX
+facetime,communication,611,10034E,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,video.camera.off.fill,,,video.slash.fill,XXXXX
+facetime,communication,612,10072E,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,,,,video.badge.plus,NO
+facetime,communication,613,10072F,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,,,,video.badge.plus.fill,NO
+facetime,communication,614,10034F,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,outgoing.facetime.video.call,,,arrow.up.right.video,XXXXX
+facetime,communication,615,100350,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,outgoing.facetime.video.call.fill,,,arrow.up.right.video.fill,XXXXX
+facetime,communication,616,100351,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,incoming.facetime.video.call,,,arrow.down.left.video,XXXXX
+facetime,communication,617,100352,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,incoming.facetime.video.call.fill,,,arrow.down.left.video.fill,XXXXX
+facetime,communication,618,100353,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.unavailable,,,questionmark.video,XXXXX
+facetime,communication,619,100354,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,,facetime.unavailable.fill,,,questionmark.video.fill,XXXXX
+facetime,communication,620,100642,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,rtl,facetime.unavailable.rtl,,,questionmark.video.rtl,NO
+facetime,communication,621,100643,TRUE,This symbol may not be modified and may only be used to refer to Apple’s FaceTime app.,rtl,facetime.unavailable.fill.rtl,,,questionmark.video.fill.rtl,NO
+mail,communication,622,100355,FALSE,,,get.mail,compose.mail,,envelope,XXXXX
+mail,communication,623,100356,FALSE,,,get.mail.fill,compose.mail.fill,,envelope.fill,XXXXX
+mail,communication,624,100357,FALSE,,,get.mail.circle,compose.mail.circle,,envelope.circle,XXXXX
+mail,communication,625,100358,FALSE,,,get.mail.circle.fill,compose.mail.circle.fill,,envelope.circle.fill,XXXXX
+mail,communication,628,100359,FALSE,,,mark.read,,,envelope.open,XXXXX
+mail,communication,629,10035A,FALSE,,,mark.read.fill,,,envelope.open.fill,XXXXX
+mail,communication,630,10035B,FALSE,,,mark.unread,,,envelope.badge,XXXXX
+mail,communication,631,10035C,FALSE,,,mark.unread.fill,,,envelope.badge.fill,XXXXX
+,objects & tools,634,10035F,FALSE,,,settings,,,gear,XXXXX
+,,639,100360,FALSE,,,more,,,ellipsis,XXXXX
+,,640,100361,FALSE,,,more.circle,,,ellipsis.circle,XXXXX
+,,641,100362,FALSE,,,more.circle.fill,,,ellipsis.circle.fill,XXXXX
+,communication,415,1002B0,FALSE,,,microphone,,,mic,XXXXX
+,communication,416,1002B1,FALSE,,,microphone.fill,,,mic.fill,XXXXX
+,communication,417,1004A9,FALSE,,,microphone.circle,,,mic.circle,NO
+,communication,418,1004AA,FALSE,,,microphone.circle.fill,,,mic.circle.fill,NO
+,communication,419,1002B2,FALSE,,,microphone.off,,,mic.slash,XXXXX
+,communication,420,1002B3,FALSE,,,microphone.off.fill,,,mic.slash.fill,XXXXX
+,commerce,642,100363,FALSE,,,shopping.bag,,,bag,XXXXX
+,commerce,643,100364,FALSE,,,shopping.bag.fill,,,bag.fill,XXXXX
+,commerce,646,100365,FALSE,,,add.to.shopping.bag,,,bag.badge.plus,XXXXX
+,commerce,647,100366,FALSE,,,add.to.shopping.bag,,,bag.fill.badge.plus,XXXXX
+,commerce,648,100367,FALSE,,,remove.from.shopping.bag,,,bag.badge.minus,XXXXX
+,commerce,649,100368,FALSE,,,remove.from.shopping.bag,,,bag.fill.badge.minus,XXXXX
+,commerce,650,100369,FALSE,,,shopping.cart,,,cart,XXXXX
+,commerce,651,10036A,FALSE,,,shopping.cart.fill,,,cart.fill,XXXXX
+,commerce,654,10036B,FALSE,,,add.to.shopping.cart,,,cart.badge.plus,XXXXX
+,commerce,655,10036C,FALSE,,,add.to.shopping.cart,,,cart.fill.badge.plus,XXXXX
+,commerce,656,10036D,FALSE,,,remove.from.shopping.cart,,,cart.badge.minus,XXXXX
+,commerce,657,10036E,FALSE,,,remove.from.shopping.cart,,,cart.fill.badge.minus,XXXXX
+,commerce,658,10036F,FALSE,,,card,,,creditcard,XXXXX
+,commerce,659,100370,FALSE,,,card.fill,,,creditcard.fill,XXXXX
+,"objects & tools, editing",662,100371,FALSE,,,enhance,,,wand.and.rays,XXXXX
+,"objects & tools, editing",663,100372,FALSE,,,enhance.inverse,,,wand.and.rays.inverse,XXXXX
+,"objects & tools, editing",664,10070D,FALSE,,,,,,wand.and.stars,NO
+,"objects & tools, editing",665,10070E,FALSE,,,,,,wand.and.stars.inverse,NO
+,"objects & tools, editing",666,100373,FALSE,,,crop,,,crop,XXXXX
+,"objects & tools, editing",667,100374,FALSE,,,crop.and.rotate,,,crop.rotate,XXXXX
+,"objects & tools, editing",1079,1004B1,FALSE,,,edit.perspective,,,perspective,NO
+,"objects & tools, editing",1086,100375,FALSE,,,edit.perspective,,,skew,XXXXX
+,"objects & tools, editing",1083,100796,FALSE,,,,,,aspectratio,NO
+,"objects & tools, editing",1085,10078F,FALSE,,,,,,aspectratio.fill,NO
+,"objects & tools, editing",670,10037A,FALSE,,,adjust,,,dial,XXXXX
+,"objects & tools, editing",671,10037B,FALSE,,,adjust.fill,,,dial.fill,XXXXX
+,objects & tools,673,10037D,FALSE,,,dashboard,,,gauge,XXXXX
+,objects & tools,674,1004D3,FALSE,,,add.to.dashboard,,,gauge.badge.plus,NO
+,objects & tools,675,1004E7,FALSE,,,remove.from.dashboard,,,gauge.badge.minus,NO
+,objects & tools,676,10037E,FALSE,,,speed,,,speedometer,XXXXX
+,media,278,100283,FALSE,,,play,,,play,XXXXX
+,media,279,100284,FALSE,,,play.fill,,,play.fill,XXXXX
+,media,280,100295,FALSE,,,play.circle,,,play.circle,XXXXX
+,media,281,100296,FALSE,,,play.circle.fill,,,play.circle.fill,XXXXX
+,media,282,100299,FALSE,,,play.rectangle,,,play.rectangle,XXXXX
+,media,283,10029A,FALSE,,,play.rectangle.fill,,,play.rectangle.fill,XXXXX
+,media,284,100285,FALSE,,,pause,,,pause,XXXXX
+,media,285,100286,FALSE,,,pause.fill,,,pause.fill,XXXXX
+,media,286,100297,FALSE,,,pause.circle,,,pause.circle,XXXXX
+,media,287,100298,FALSE,,,pause.circle.fill,,,pause.circle.fill,XXXXX
+,media,288,10029B,FALSE,,,pause.rectangle,,,pause.rectangle,XXXXX
+,media,289,10029C,FALSE,,,pause.rectangle.fill,,,pause.rectangle.fill,XXXXX
+,media,290,1006F6,FALSE,,,,,,stop,NO
+,media,291,1006F7,FALSE,,,,,,stop.fill,NO
+,media,292,10072A,FALSE,,,,,,stop.circle,NO
+,media,293,10072B,FALSE,,,,,,stop.circle.fill,NO
+,media,294,100287,FALSE,,,,,,playpause,XXXXX
+,media,295,100288,FALSE,,,go.backward.fill,,,playpause.fill,XXXXX
+,media,296,100289,FALSE,,,go.backward,,,backward,XXXXX
+,media,297,10028A,FALSE,,,go.forward.fill,,,backward.fill,XXXXX
+,media,298,10028B,FALSE,,,go.forward,,,forward,XXXXX
+,media,299,10028C,FALSE,,,go.to.start.fill,,,forward.fill,XXXXX
+,media,300,10028D,FALSE,,,go.to.start,,,backward.end,XXXXX
+,media,301,10028E,FALSE,,,go.to.end.fill,,,backward.end.fill,XXXXX
+,media,302,10028F,FALSE,,,go.to.end,,,forward.end,XXXXX
+,media,303,100290,FALSE,,,go.to.start.fill,,,forward.end.fill,XXXXX
+,media,304,100291,FALSE,,,go.to.start,,,backward.end.alt,XXXXX
+,media,305,100292,FALSE,,,go.to.end.fill,,,backward.end.alt.fill,XXXXX
+,media,306,100293,FALSE,,,go.to.end,,,forward.end.alt,XXXXX
+,media,307,100294,FALSE,,,shuffle.fill,,,forward.end.alt.fill,XXXXX
+,media,316,10029D,FALSE,,,repeat,,,shuffle,XXXXX
+,media,317,10029E,FALSE,,,repeat.1,,,repeat,XXXXX
+,media,318,10029F,FALSE,,,go.forward,,,repeat.1,XXXXX
+,media,350,10037F,FALSE,,,go.backward,,,goforward,XXXXX
+,media,351,100380,FALSE,,,go.forward.10.seconds,,,gobackward,XXXXX
+,media,352,100381,FALSE,,,go.backward.10.seconds,,,goforward.10,XXXXX
+,media,353,100382,FALSE,,,go.forward.15.seconds,,,gobackward.10,XXXXX
+,media,354,100383,FALSE,,,go.backward.15.seconds,,,goforward.15,XXXXX
+,media,355,100384,FALSE,,,go.forward.30.seconds,,,gobackward.15,XXXXX
+,media,356,100385,FALSE,,,go.backward.30.seconds,,,goforward.30,XXXXX
+,media,357,100386,FALSE,,,go.forward.45.seconds,,,gobackward.30,XXXXX
+,media,358,100387,FALSE,,,go.backward.45.seconds,,,goforward.45,XXXXX
+,media,359,100388,FALSE,,,go.forward.60.seconds,,,gobackward.45,XXXXX
+,media,360,100389,FALSE,,,go.backward.60.seconds,,,goforward.60,XXXXX
+,media,361,10038A,FALSE,,,,,,gobackward.60,XXXXX
+,media,362,100624,FALSE,,,,,,goforward.75,NO
+,media,363,100625,FALSE,,,,,,gobackward.75,NO
+,media,364,100626,FALSE,,,,,,goforward.90,NO
+,media,365,100627,FALSE,,,,,,gobackward.90,NO
+,media,366,100731,FALSE,,ar,,,,goforward.10.ar,NO
+,media,367,100732,FALSE,,ar,,,,gobackward.10.ar,NO
+,media,368,100733,FALSE,,ar,,,,goforward.15.ar,NO
+,media,369,100734,FALSE,,ar,,,,gobackward.15.ar,NO
+,media,370,100735,FALSE,,ar,,,,goforward.30.ar,NO
+,media,371,100736,FALSE,,ar,,,,gobackward.30.ar,NO
+,media,372,100737,FALSE,,ar,,,,goforward.45.ar,NO
+,media,373,100738,FALSE,,ar,,,,gobackward.45.ar,NO
+,media,374,100739,FALSE,,ar,,,,goforward.60.ar,NO
+,media,375,10073A,FALSE,,ar,,,,gobackward.60.ar,NO
+,media,376,10073B,FALSE,,ar,,,,goforward.75.ar,NO
+,media,377,10073C,FALSE,,ar,,,,gobackward.75.ar,NO
+,media,378,10073D,FALSE,,ar,,,,goforward.90.ar,NO
+,media,379,10073E,FALSE,,ar,,,,gobackward.90.ar,NO
+,media,380,1007A4,FALSE,,hi,,,,goforward.10.hi,NO
+,media,381,1007A5,FALSE,,hi,,,,gobackward.10.hi,NO
+,media,382,1007A6,FALSE,,hi,,,,goforward.15.hi,NO
+,media,383,1007A7,FALSE,,hi,,,,gobackward.15.hi,NO
+,media,384,1007A8,FALSE,,hi,,,,goforward.30.hi,NO
+,media,385,1007A9,FALSE,,hi,,,,gobackward.30.hi,NO
+,media,386,1007AA,FALSE,,hi,,,,goforward.45.hi,NO
+,media,387,1007AB,FALSE,,hi,,,,gobackward.45.hi,NO
+,media,388,1007AC,FALSE,,hi,,,,goforward.60.hi,NO
+,media,389,1007AD,FALSE,,hi,,,,gobackward.60.hi,NO
+,media,390,1007AE,FALSE,,hi,,,,goforward.75.hi,NO
+,media,391,1007AF,FALSE,,hi,,,,gobackward.75.hi,NO
+,media,392,1007B0,FALSE,,hi,,,,goforward.90.hi,NO
+,media,393,1007B1,FALSE,,hi,,,,gobackward.90.hi,NO
+,media,394,100628,FALSE,,,,,,goforward.plus,NO
+,media,395,100629,FALSE,,,,,,gobackward.minus,NO
+,editing,755,100460,FALSE,,,crop,,,selection.pin.in.out,XXXXX
+,objects & tools,678,10038C,FALSE,,,tempo,,,metronome,XXXXX
+,"objects & tools, health, editing",687,100393,FALSE,,,,,,bandage,XXXXX
+,"objects & tools, health, editing",688,100394,FALSE,,,,,,bandage.fill,XXXXX
+,objects & tools,684,100390,FALSE,,,,,,tuningfork,XXXXX
+,"objects & tools, editing",685,100391,FALSE,,,format,,,paintbrush,XXXXX
+,"objects & tools, editing",686,100392,FALSE,,,format.fill,,,paintbrush.fill,XXXXX
+,objects & tools,698,100395,FALSE,,,,,,wrench,XXXXX
+,objects & tools,699,100396,FALSE,,,,,,wrench.fill,XXXXX
+,objects & tools,700,100644,FALSE,,,build,,,hammer,NO
+,objects & tools,701,100645,FALSE,,,build.fill,,,hammer.fill,NO
+,"objects & tools, editing",704,100397,FALSE,,,pick.color.empty,,,eyedropper,XXXXX
+,"objects & tools, editing",705,100398,FALSE,,,pick.color.halffull.halffull,,,eyedropper.halffull,XXXXX
+,"objects & tools, editing",706,100399,FALSE,,,pick.color.full.full,,,eyedropper.full,XXXXX
+,"objects & tools, devices",711,10039A,FALSE,,,print,,,printer,XXXXX
+,"objects & tools, devices",712,10039B,FALSE,,,print.fill,,,printer.fill,XXXXX
+,objects & tools,723,1003A0,FALSE,,,lock,,,lock,XXXXX
+,objects & tools,724,1003A1,FALSE,,,lock.fill,,,lock.fill,XXXXX
+,objects & tools,725,1004B2,FALSE,,,lock.circle,,,lock.circle,NO
+,objects & tools,726,1004B3,FALSE,,,lock.circle.fill,,,lock.circle.fill,NO
+,objects & tools,727,1003A2,FALSE,,,lock.off,,,lock.slash,XXXXX
+,objects & tools,728,1003A3,FALSE,,,lock.off.fill,,,lock.slash.fill,XXXXX
+,objects & tools,729,1003A4,FALSE,,,unlock,,,lock.open,XXXXX
+,objects & tools,730,1003A5,FALSE,,,unlock.fill,,,lock.open.fill,XXXXX
+,objects & tools,731,100459,FALSE,,,lock.rotation,,,lock.rotation,XXXXX
+,objects & tools,732,10045A,FALSE,,,unlock.rotation,,,lock.rotation.open,XXXXX
+,connectivity,733,100647,FALSE,,,wifi,,,wifi,NO
+,connectivity,734,100648,FALSE,,,wifi.off,,,wifi.slash,NO
+,connectivity,735,100665,FALSE,,,wifi.error,,,wifi.exclamationmark,NO
+,,1100,1006E8,FALSE,,,,,,battery.100,NO
+,,1101,1006E9,FALSE,,,,,,battery.25,NO
+,,1102,1006EA,FALSE,,,,,,battery.0,NO
+,objects & tools,736,1003A6,FALSE,,,pin,,,pin,XXXXX
+,objects & tools,737,1003A7,FALSE,,,pin.fill,,,pin.fill,XXXXX
+,objects & tools,738,1004B4,FALSE,,,pin.circle,,,pin.circle,NO
+,objects & tools,739,1004B5,FALSE,,,pin.circle.fill,,,pin.circle.fill,NO
+,objects & tools,740,1003A8,FALSE,,,remove.pin,,,pin.slash,XXXXX
+,objects & tools,741,1003A9,FALSE,,,remove.pin.fill,,,pin.slash.fill,XXXXX
+,objects & tools,742,1003AA,FALSE,,,map.pin,,,mappin,XXXXX
+,objects & tools,743,100707,FALSE,,,map.pin.circle,,,mappin.circle,NO
+,objects & tools,744,100708,FALSE,,,map.pin.circle.fill,,,mappin.circle.fill,NO
+,objects & tools,745,100649,FALSE,,,remove.map.pin,,,mappin.slash,NO
+,objects & tools,746,1003AB,FALSE,,,remove.map.pin,,,mappin.and.ellipse,XXXXX
+,objects & tools,747,10064A,FALSE,,,show.map,,,map,NO
+,objects & tools,748,10064B,FALSE,,,show.map.fill,,,map.fill,NO
+,apple,749,1003AC,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Safari browser.,,safari,,,safari,XXXXX
+,apple,750,1003AD,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Safari browser.,,safari.fill,,,safari.fill,XXXXX
+,editing,751,1003AE,FALSE,,,rotate.45deg.left,,,rotate.left,XXXXX
+,editing,752,1003AF,FALSE,,,rotate.45deg.left.fill,,,rotate.left.fill,XXXXX
+,editing,753,1003B0,FALSE,,,rotate.45deg.right,,,rotate.right,XXXXX
+,editing,754,1003B1,FALSE,,,rotate.45deg.right.fill,,,rotate.right.fill,XXXXX
+,editing,1087,100792,FALSE,,,,,,flip.horizontal,NO
+,editing,1088,100793,FALSE,,,,,,flip.horizontal.fill,NO
+,,865,1003E3,FALSE,,,table,,,table,XXXXX
+,,866,1003E4,FALSE,,,table.fill,,,table.fill,XXXXX
+,,867,1003E5,FALSE,,,edit.table,,,table.badge.more,XXXXX
+,,868,1003E6,FALSE,,,edit.table.fill,,,table.badge.more.fill,XXXXX
+,apple,764,100461,TRUE,This symbol may not be modified and may only be used to refer to Apple’s AirPlay.,,airplay.video,,,airplayvideo,XXXXX
+,apple,765,100462,TRUE,This symbol may not be modified and may only be used to refer to Apple’s AirPlay.,,airplay.audio,,,airplayaudio,XXXXX
+album,,910,10040B,FALSE,,,,,,square.stack,XXXXX
+album,,911,10040C,FALSE,,,,,,square.stack.fill,XXXXX
+album,people,901,1004E5,FALSE,,,,,,person.2.square.stack,NO
+album,people,902,1004E6,FALSE,,,,,,person.2.square.stack.fill,NO
+,,347,10046A,FALSE,,,song,,,music.note,XXXXX
+,,348,10046B,FALSE,,,artist,,,music.mic,XXXXX
+,,349,10046C,FALSE,,,playlist,,,music.note.list,XXXXX
+,objects & tools,782,10046D,FALSE,,,genres,,,guitars,XXXXX
+,devices,682,10074E,FALSE,,,,,,hifispeaker,NO
+,devices,683,10074F,FALSE,,,,,,hifispeaker.fill,NO
+,hardware,757,1003B2,FALSE,,,tv,,,tv,XXXXX
+,hardware,758,1004B6,FALSE,,,tv.fill,,,tv.fill,NO
+,hardware,759,1003B3,FALSE,,,tv.circle,,,tv.circle,XXXXX
+,hardware,760,1003B4,FALSE,,,tv.circle.fill,,,tv.circle.fill,XXXXX
+,hardware,761,1003B5,FALSE,,,music.video,,,tv.music.note,XXXXX
+,hardware,762,1004B7,FALSE,,,music.video.fill,,,tv.music.note.fill,NO
+,objects & tools,799,1003B6,FALSE,,,movie,,,film,XXXXX
+,objects & tools,800,1003B7,FALSE,,,movie.fill,,,film.fill,XXXXX
+,,801,100750,FALSE,,,,,,sportscourt,NO
+,,802,100751,FALSE,,,,,,sportscourt.fill,NO
+,,804,1003B8,FALSE,,,,,,smiley,NO
+,,805,10064C,FALSE,,,,,,smiley.fill,NO
+,apple,313,100456,FALSE,,,memories,,,memories,XXXXX
+,apple,314,100457,FALSE,,,add.memory,,,memories.badge.plus,XXXXX
+,apple,315,100458,FALSE,,,remove.memory,,,memories.badge.minus,XXXXX
+,transportation,1057,100453,FALSE,,,airplane.mode,,,airplane,2708
+,health,1034,100446,FALSE,,,medical.id,,,staroflife,XXXXX
+,health,1035,100447,FALSE,,,medical.id.fill,,,staroflife.fill,XXXXX
+,shapes,821,1003C3,FALSE,,,,,,rectangle,XXXXX
+,shapes,822,1003C4,FALSE,,,,,,rectangle.fill,XXXXX
+,,825,1003C7,FALSE,,,,,,plus.rectangle,XXXXX
+,,826,1003C8,FALSE,,,,,,plus.rectangle.fill,XXXXX
+,,827,1003C9,FALSE,,,,,,minus.rectangle,XXXXX
+,,828,1003CA,FALSE,,,,,,minus.rectangle.fill,XXXXX
+,,829,1003CB,FALSE,,,,,,checkmark.rectangle,XXXXX
+,,830,1003CC,FALSE,,,,,,checkmark.rectangle.fill,XXXXX
+,,831,1003CD,FALSE,,,,,,xmark.rectangle,XXXXX
+,,832,1003CE,FALSE,,,,,,xmark.rectangle.fill,XXXXX
+,,839,1003D5,FALSE,,,,,,rectangle.badge.checkmark,XXXXX
+,,840,1003D6,FALSE,,,,,,rectangle.fill.badge.checkmark,XXXXX
+,,841,1003D7,FALSE,,,,,,rectangle.badge.xmark,XXXXX
+,,842,1003D8,FALSE,,,,,,rectangle.fill.badge.xmark,XXXXX
+,,823,1003C5,FALSE,,,photo,,,photo,XXXXX
+,,824,1003C6,FALSE,,,photo.fill,,,photo.fill,XXXXX
+,,833,1003CF,FALSE,,,,,,person.crop.rectangle,XXXXX
+,,834,1003D0,FALSE,,,,,,person.crop.rectangle.fill,XXXXX
+,,869,1003E7,FALSE,,,screen.sharing,,,rectangle.on.rectangle,XXXXX
+,,870,1003E8,FALSE,,,screen.sharing.fill,,,rectangle.fill.on.rectangle.fill,XXXXX
+,,871,1003E9,FALSE,,,,,,plus.rectangle.on.rectangle,XXXXX
+,,872,1003EA,FALSE,,,,,,plus.rectangle.fill.on.rectangle.fill,XXXXX
+,,873,1003EB,FALSE,,,,,,photo.on.rectangle,XXXXX
+,,874,1003EC,FALSE,,,,,,photo.fill.on.rectangle.fill,XXXXX
+album,,877,1003ED,FALSE,,,,,,rectangle.stack,XXXXX
+album,,878,1003EE,FALSE,,,,,,rectangle.stack.fill,XXXXX
+album,,881,1003F1,FALSE,,,,,,rectangle.stack.badge.plus,XXXXX
+album,,882,1003F2,FALSE,,,,,,rectangle.stack.fill.badge.plus,XXXXX
+album,,883,1003F3,FALSE,,,,,,rectangle.stack.badge.minus,XXXXX
+album,,884,1003F4,FALSE,,,,,,rectangle.stack.fill.badge.minus,XXXXX
+"shared, album",,889,1003F9,FALSE,,,,,,rectangle.stack.badge.person.crop,XXXXX
+"shared, album",,890,1003FA,FALSE,,,,,,rectangle.stack.fill.badge.person.crop,XXXXX
+,human,891,1003FB,FALSE,,,,,,rectangle.stack.person.crop,XXXXX
+,human,892,1003FC,FALSE,,,,,,rectangle.stack.person.crop.fill,XXXXX
+,,875,10046F,FALSE,,,,,,rectangle.on.rectangle.angled,XXXXX
+,,876,100470,FALSE,,,,,,rectangle.fill.on.rectangle.angled.fill,XXXXX
+,,844,1003DA,FALSE,,,split.view.horitzontally.left,,,sidebar.left,XXXXX
+,,845,1003DB,FALSE,,,split.view.horitzontally.right,,,sidebar.right,XXXXX
+,,862,1003E1,FALSE,,,,,,squares.below.rectangle,XXXXX
+,,903,100405,FALSE,,,,,,square.on.square,XXXXX
+,,904,100406,FALSE,,,,,,square.fill.on.square.fill,XXXXX
+,,905,100407,FALSE,,,duplicate,,,plus.square.on.square,XXXXX
+,,906,100408,FALSE,,,duplicate.fill,,,plus.square.fill.on.square.fill,XXXXX
+,,908,100409,FALSE,,,shape,,,square.on.circle,XXXXX
+,,909,10040A,FALSE,,,shape.fill,,,square.fill.on.circle.fill,XXXXX
+,,916,100411,FALSE,,,,,,square.and.line.vertical.and.square,XXXXX
+,,917,100412,FALSE,,,,,,square.fill.and.line.vertical.square.fill,XXXXX
+,,918,100413,FALSE,,,,,,square.fill.and.line.vertical.and.square,XXXXX
+,,919,100414,FALSE,,,,,,square.and.line.vertical.and.square.fill,XXXXX
+,shapes,939,10075D,FALSE,,,,,,hexagon,NO
+,shapes,940,10075E,FALSE,,,,,,hexagon.fill,NO
+,,942,100418,FALSE,,,,,,cube,XXXXX
+,,943,100419,FALSE,,,,,,cube.fill,XXXXX
+,objects & tools,946,10041A,FALSE,,,,,,cube.box,XXXXX
+,objects & tools,947,10041B,FALSE,,,,,,cube.box.fill,XXXXX
+,apple,950,100638,TRUE,This symbol may not be modified and may only be used to refer to Apple’s ARKit.,,ar,,,arkit,NO
+,,951,10041C,FALSE,,,burst,,,square.stack.3d.down.right,XXXXX
+,,952,10041D,FALSE,,,burst.fill,,,square.stack.3d.down.right.fill,XXXXX
+,,953,10041E,FALSE,,,hdr,,,square.stack.3d.up,XXXXX
+,,954,10041F,FALSE,,,hdr.fill,,,square.stack.3d.up.fill,XXXXX
+,,955,100652,FALSE,,,,,,square.stack.3d.up.slash,NO
+,,956,100653,FALSE,,,,,,square.stack.3d.up.slash.fill,NO
+,,959,100420,FALSE,,,animate,,,square.stack.3d.down.dottedline,XXXXX
+,apple,960,100421,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Live Photos feature.,,live.photo,,,livephoto,XXXXX
+,apple,961,100422,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Live Photos feature.,,live.photo.off,,,livephoto.slash,XXXXX
+,apple,963,100423,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Live Photos feature.,,play.live.photo,,,livephoto.play,XXXXX
+,,914,10040F,FALSE,,,panorama,,,pano,XXXXX
+,,915,100410,FALSE,,,panorama.fill,,,pano.fill,XXXXX
+,shapes,1458,100776,FALSE,,,,,,capsule,NO
+,shapes,1459,100777,FALSE,,,,,,capsule.fill,NO
+,"time, objects & tools",970,10042F,FALSE,,,stopwatch,,,stopwatch,XXXXX
+,"time, objects & tools",971,100430,FALSE,,,stopwatch.fill,,,stopwatch.fill,XXXXX
+,"time, objects & tools",968,10042D,FALSE,,,alarm,,,alarm,XXXXX
+,"time, objects & tools",969,10042E,FALSE,,,alarm.fill,,,alarm.fill,XXXXX
+,"time, objects & tools",966,10042B,FALSE,,,clock,history,most.recent,clock,XXXXX
+,"time, objects & tools",967,10042C,FALSE,,,clock.fill,history.fill,most.recent.fill,clock.fill,XXXXX
+,"time, objects & tools",973,100431,FALSE,,,timer,,,timer,XXXXX
+,objects & tools,235,100655,FALSE,,,,,,umbrella,NO
+,objects & tools,236,100656,FALSE,,,,,,umbrella.fill,NO
+,objects & tools,1108,1006ED,FALSE,,,,,,lightbulb,NO
+,objects & tools,1109,1006EE,FALSE,,,,,,lightbulb.fill,NO
+,objects & tools,1110,100783,FALSE,,,,,,lightbulb.slash,NO
+,objects & tools,1111,100784,FALSE,,,,,,lightbulb.slash.fill,NO
+fire,nature,237,10066C,FALSE,,,,,,flame,NO
+fire,nature,238,10066D,FALSE,,,,,,flame.fill,NO
+,"hardware, objects & tools",975,1006F8,FALSE,,,,,,gamecontroller,NO
+,"hardware, objects & tools",976,1006F9,FALSE,,,,,,gamecontroller.fill,NO
+,,920,100415,FALSE,,,,,,flowchart,XXXXX
+,,921,100416,FALSE,,,,,,flowchart.fill,XXXXX
+,"objects & tools, shapes",924,100666,FALSE,,,,,,shield,NO
+,"objects & tools, shapes",925,100667,FALSE,,,,,,shield.fill,NO
+,objects & tools,936,100668,FALSE,,,,,,shield.lefthalf.fill,NO
+,objects & tools,926,1007A1,FALSE,,,,,,shield.slash,NO
+,objects & tools,927,1007A2,FALSE,,,,,,shield.slash.fill,NO
+,objects & tools,928,100799,FALSE,,,,,,lock.shield,NO
+,objects & tools,929,10079A,FALSE,,,,,,lock.shield.fill,NO
+,objects & tools,930,10079B,FALSE,,,,,,checkmark.shield,NO
+,objects & tools,931,10079C,FALSE,,,,,,checkmark.shield.fill,NO
+,objects & tools,932,10079D,FALSE,,,,,,xmark.shield,NO
+,objects & tools,933,10079E,FALSE,,,,,,xmark.shield.fill,NO
+,objects & tools,934,10079F,FALSE,,,,,,exclamationmark.shield,NO
+,objects & tools,935,1007A0,FALSE,,,,,,exclamationmark.shield.fill,NO
+,hardware,763,100657,FALSE,,,,,,desktopcomputer,NO
+,,849,1003DE,FALSE,,,dock,,,rectangle.dock,XXXXX
+,transportation,783,100658,FALSE,,,car,,,car,NO
+,transportation,784,100659,FALSE,,,car.fill,,,car.fill,NO
+,transportation,789,100747,FALSE,,,train.fill,,,tram.fill,NO
+,,672,10037C,FALSE,,,stop,,,nosign,XXXXX
+,objects & tools,110,100263,FALSE,,,link,,,link,XXXXX
+,objects & tools,111,1004A0,FALSE,,,link.circle,,,link.circle,NO
+,objects & tools,112,1004A1,FALSE,,,link.circle.fill,,,link.circle.fill,NO
+,,113,100264,FALSE,,,personal.hotspot,,,personalhotspot,XXXXX
+,,1060,100454,FALSE,,,,,,studentdesk,XXXXX
+,objects & tools,1099,100586,FALSE,,,reading.list,,,eyeglasses,NO
+,objects & tools,713,10039C,FALSE,,,,,,briefcase,XXXXX
+,objects & tools,714,10039D,FALSE,,,,,,briefcase.fill,XXXXX
+,,964,100429,FALSE,,,,,,scope,XXXXX
+,,965,10042A,FALSE,,,,,,helm,2388
+,apple,817,1003BD,TRUE,This symbol may not be modified and may only be used to refer to Apple’s Face ID feature.,,face.id,,,faceid,XXXXX
+,apple,1068,100690,FALSE,,,purchased,,,purchased,NO
+,apple,1069,100691,FALSE,,,purchased.circle,,,purchased.circle,NO
+,apple,1070,100692,FALSE,,,purchased.circle.fill,,,purchased.circle.fill,NO
+,,1240,10065A,FALSE,,,embed.code,,,chevron.left.slash.chevron.right,NO
+,,1013,100437,FALSE,,,skip.slide,,,rectangle.compress.vertical,XXXXX
+,,1014,100438,FALSE,,,show.slide,,,rectangle.expand.vertical,XXXXX
+,,1015,10066E,FALSE,,,,,,rectangle.and.arrow.up.right.and.arrow.down.left,NO
+,,1016,10066F,FALSE,,,,,,rectangle.and.arrow.up.right.and.arrow.down.left.slash,NO
+,,1020,10043E,FALSE,,,chart.column,,,chart.bar,XXXXX
+,,1021,10043F,FALSE,,,chart.column.fill,,,chart.bar.fill,XXXXX
+,,1022,100440,FALSE,,,chart.pie,,,chart.pie,XXXXX
+,,1023,10070B,FALSE,,,chart.pie.fill,,,chart.pie.fill,NO
+,objects & tools,1061,100587,FALSE,,,duration,,,hourglass,NO
+,objects & tools,1062,100588,FALSE,,,duration.start,,,hourglass.bottomhalf.fill,NO
+,objects & tools,1063,100589,FALSE,,,duration.end,,,hourglass.tophalf.fill,NO
+,"objects & tools, health",793,100669,FALSE,,,bedtime,,,bed.double,NO
+,"objects & tools, health",794,10066A,FALSE,,,bedtime.fill,,,bed.double.fill,NO
+,,1025,100442,FALSE,,,,,,burst,XXXXX
+,,1026,10061E,FALSE,,,,,,burst.fill,NO
+,,1031,10066B,FALSE,,,,,,waveform,NO
+,,1032,100788,FALSE,,,,,,waveform.circle,NO
+,,1033,100789,FALSE,,,,,,waveform.circle.fill,NO
+,health,1027,10071F,FALSE,,,,,,waveform.path.ecg,NO
+,,1028,100443,FALSE,,,,,,waveform.path,XXXXX
+,,1029,100444,FALSE,,,,,,waveform.path.badge.plus,XXXXX
+,,1030,100445,FALSE,,,,,,waveform.path.badge.minus,XXXXX
+,"hardware, objects & tools",1040,100448,FALSE,,,audiobook,,,headphones,XXXXX
+,objects & tools,1043,100449,FALSE,,,gift,,,gift,XXXXX
+,objects & tools,1044,10044A,FALSE,,,gift.fill,,,gift.fill,XXXXX
+,shapes,1047,10044B,FALSE,,,,,,app,XXXXX
+,shapes,1048,10044C,FALSE,,,,,,app.fill,XXXXX
+,,1049,10044D,FALSE,,,,,,plus.app,XXXXX
+,,1050,10044E,FALSE,,,,,,plus.app.fill,XXXXX
+,,1051,10044F,FALSE,,,notifications,,,app.badge,XXXXX
+,,1052,100450,FALSE,,,notifications.fill,,,app.badge.fill,XXXXX
+,,1053,100451,FALSE,,,gift,,,app.gift,XXXXX
+,,1054,100452,FALSE,,,gift.fill,,,app.gift.fill,XXXXX
+,arrows,1430,1004C2,FALSE,,,,,,arrowtriangle.up,NO
+,arrows,1431,100124,FALSE,,,,,,arrowtriangle.up.fill,25B2
+,arrows,1436,1004C3,FALSE,,,,,,arrowtriangle.down,NO
+,arrows,1437,100125,FALSE,,,,,,arrowtriangle.down.fill,25BC
+,arrows,1442,1004C4,FALSE,,,,,,arrowtriangle.left,NO
+,arrows,1443,100126,FALSE,,,,,,arrowtriangle.left.fill,25C0
+,arrows,1448,1004C5,FALSE,,,,,,arrowtriangle.right,NO
+,arrows,1449,100127,FALSE,,,,,,arrowtriangle.right.fill,25B6
+,arrows,1432,100066,FALSE,,,,,,arrowtriangle.up.circle,XXXXX
+,arrows,1433,100067,FALSE,,,,,,arrowtriangle.up.circle.fill,XXXXX
+,arrows,1438,100068,FALSE,,,,,,arrowtriangle.down.circle,XXXXX
+,arrows,1439,100069,FALSE,,,,,,arrowtriangle.down.circle.fill,XXXXX
+,arrows,1444,10006A,FALSE,,,,,,arrowtriangle.left.circle,XXXXX
+,arrows,1445,10006B,FALSE,,,,,,arrowtriangle.left.circle.fill,XXXXX
+,arrows,1450,10006C,FALSE,,,,,,arrowtriangle.right.circle,XXXXX
+,arrows,1451,10006D,FALSE,,,,,,arrowtriangle.right.circle.fill,XXXXX
+,arrows,1434,1000F6,FALSE,,,,,,arrowtriangle.up.square,XXXXX
+,arrows,1435,1000F7,FALSE,,,,,,arrowtriangle.up.square.fill,XXXXX
+,arrows,1440,1000F8,FALSE,,,,,,arrowtriangle.down.square,XXXXX
+,arrows,1441,1000F9,FALSE,,,,,,arrowtriangle.down.square.fill,XXXXX
+,arrows,1446,1000FA,FALSE,,,,,,arrowtriangle.left.square,XXXXX
+,arrows,1447,1000FB,FALSE,,,,,,arrowtriangle.left.square.fill,XXXXX
+,arrows,1452,1000FC,FALSE,,,,,,arrowtriangle.right.square,XXXXX
+,arrows,1453,1000FD,FALSE,,,,,,arrowtriangle.right.square.fill,XXXXX
+,keyboard,154,10019B,FALSE,,,backspace,,,delete.left,232B
+,keyboard,155,10019C,FALSE,,,backspace.fill,,,delete.left.fill,XXXXX
+,keyboard,150,100197,FALSE,,,backspace,,,delete.right,2326
+,keyboard,151,100198,FALSE,,,backspace.fill,,,delete.right.fill,XXXXX
+,keyboard,152,100199,FALSE,,,,,,clear,2327
+,keyboard,153,10019A,FALSE,,,,,,clear.fill,XXXXX
+,keyboard,156,10019D,FALSE,,,shift,,,shift,21E7
+,keyboard,157,10019E,FALSE,,,shift.fill,,,shift.fill,XXXXX
+,keyboard,160,1001A1,FALSE,,,caps.lock,,,capslock,21EA
+,keyboard,161,1001A2,FALSE,,,caps.lock.fill,,,capslock.fill,XXXXX
+,keyboard,310,1001A5,FALSE,,,eject,,,eject,23CF
+,keyboard,311,1001A6,FALSE,,,eject.fill,,,eject.fill,XXXXX
+,keyboard,147,100194,FALSE,,,command,,,command,2318
+,keyboard,148,100195,FALSE,,,option,,,option,2325
+,keyboard,149,100196,FALSE,,,,,,alt,2387
+,keyboard,1284,10018D,FALSE,,,control,,,control,2303
+,keyboard,1285,10018E,FALSE,,,projective.enter,,,projective,2305
+,keyboard,162,1001A7,FALSE,,,espace,,,escape,238B
+,keyboard,164,1001A8,FALSE,,,power,,,power,XXXXX
+,keyboard,167,1001AA,FALSE,,,change.keyboard,,,globe,XXXXX
+,arrows,1295,100128,FALSE,,,,,,arrow.up,2191
+,arrows,1296,100076,FALSE,,,,,,arrow.up.circle,XXXXX
+,arrows,1297,100077,FALSE,,,,,,arrow.up.circle.fill,XXXXX
+,arrows,1298,100106,FALSE,,,,,,arrow.up.square,XXXXX
+,arrows,1299,100107,FALSE,,,,,,arrow.up.square.fill,XXXXX
+,arrows,1300,100129,FALSE,,,,,,arrow.down,2193
+,arrows,1301,100078,FALSE,,,,,,arrow.down.circle,XXXXX
+,arrows,1302,100079,FALSE,,,,,,arrow.down.circle.fill,XXXXX
+,arrows,1303,100108,FALSE,,,,,,arrow.down.square,XXXXX
+,arrows,1304,100109,FALSE,,,,,,arrow.down.square.fill,XXXXX
+,arrows,1305,10012A,FALSE,,,,,,arrow.left,2190
+,arrows,1306,10007A,FALSE,,,,,,arrow.left.circle,XXXXX
+,arrows,1307,10007B,FALSE,,,,,,arrow.left.circle.fill,XXXXX
+,arrows,1308,10010A,FALSE,,,,,,arrow.left.square,XXXXX
+,arrows,1309,10010B,FALSE,,,,,,arrow.left.square.fill,XXXXX
+,arrows,1310,10012B,FALSE,,,,,,arrow.right,2192
+,arrows,1311,10007C,FALSE,,,,,,arrow.right.circle,XXXXX
+,arrows,1312,10007D,FALSE,,,,,,arrow.right.circle.fill,XXXXX
+,arrows,1313,10010C,FALSE,,,,,,arrow.right.square,XXXXX
+,arrows,1314,10010D,FALSE,,,,,,arrow.right.square.fill,XXXXX
+,arrows,1315,10012E,FALSE,,,,,,arrow.up.left,2196
+,arrows,1316,100082,FALSE,,,,,,arrow.up.left.circle,XXXXX
+,arrows,1317,100083,FALSE,,,,,,arrow.up.left.circle.fill,XXXXX
+,arrows,1318,100112,FALSE,,,,,,arrow.up.left.square,XXXXX
+,arrows,1319,100113,FALSE,,,,,,arrow.up.left.square.fill,XXXXX
+,arrows,1320,10012F,FALSE,,,,,,arrow.up.right,2197
+,arrows,1321,100084,FALSE,,,,,,arrow.up.right.circle,XXXXX
+,arrows,1322,100085,FALSE,,,,,,arrow.up.right.circle.fill,XXXXX
+,arrows,1323,100114,FALSE,,,,,,arrow.up.right.square,XXXXX
+,arrows,1324,100115,FALSE,,,,,,arrow.up.right.square.fill,XXXXX
+,arrows,1325,100130,FALSE,,,,,,arrow.down.left,2199
+,arrows,1326,100086,FALSE,,,,,,arrow.down.left.circle,XXXXX
+,arrows,1327,100087,FALSE,,,,,,arrow.down.left.circle.fill,XXXXX
+,arrows,1328,100116,FALSE,,,,,,arrow.down.left.square,XXXXX
+,arrows,1329,100117,FALSE,,,,,,arrow.down.left.square.fill,XXXXX
+,arrows,1330,100131,FALSE,,,,,,arrow.down.right,2198
+,arrows,1331,100088,FALSE,,,,,,arrow.down.right.circle,XXXXX
+,arrows,1332,100089,FALSE,,,,,,arrow.down.right.circle.fill,XXXXX
+,arrows,1333,100118,FALSE,,,,,,arrow.down.right.square,XXXXX
+,arrows,1334,100119,FALSE,,,,,,arrow.down.right.square.fill,XXXXX
+,arrows,1387,10013F,FALSE,,,home,,,arrow.up.to.line,XXXXX
+,arrows,1391,100140,FALSE,,,end,,,arrow.down.to.line,XXXXX
+,arrows,1395,100141,FALSE,,,,,,arrow.left.to.line,XXXXX
+,arrows,1399,100142,FALSE,,,tab,,,arrow.right.to.line,XXXXX
+,arrows,1386,100143,FALSE,,,home,,,arrow.up.to.line.alt,2912
+,arrows,1390,100144,FALSE,,,end,,,arrow.down.to.line.alt,2913
+,arrows,1394,100145,FALSE,,,,,,arrow.left.to.line.alt,XXXXX
+,arrows,1398,100146,FALSE,,,tab,,,arrow.right.to.line.alt,XXXXX
+,arrows,1406,100147,FALSE,,,,,,return,23CE
+,arrows,1345,100132,FALSE,,,,,,arrow.turn.right.up,2934
+,arrows,1346,100133,FALSE,,,,,,arrow.turn.right.down,2935
+,arrows,1347,100134,FALSE,,,,,,arrow.turn.down.left,2936
+,arrows,1348,100135,FALSE,,,,,,arrow.turn.down.right,2937
+,arrows,1349,100136,FALSE,,,,,,arrow.turn.left.up,F6D5
+,arrows,1350,100137,FALSE,,,,,,arrow.turn.left.down,F6D6
+,arrows,1351,100138,FALSE,,,,,,arrow.turn.up.left,F6D7
+,arrows,1352,100139,FALSE,,,,,,arrow.turn.up.right,F6D8
+,arrows,1353,10013A,FALSE,,,,,,arrow.uturn.up,XXXXX
+,arrows,1354,10008A,FALSE,,,,,,arrow.uturn.up.circle,XXXXX
+,arrows,1355,10008B,FALSE,,,,,,arrow.uturn.up.circle.fill,XXXXX
+,arrows,1356,10011A,FALSE,,,,,,arrow.uturn.up.square,XXXXX
+,arrows,1357,10011B,FALSE,,,,,,arrow.uturn.up.square.fill,XXXXX
+,arrows,1358,10013B,FALSE,,,,,,arrow.uturn.down,XXXXX
+,arrows,1359,10008C,FALSE,,,,,,arrow.uturn.down.circle,XXXXX
+,arrows,1360,10008D,FALSE,,,,,,arrow.uturn.down.circle.fill,XXXXX
+,arrows,1361,10011C,FALSE,,,,,,arrow.uturn.down.square,XXXXX
+,arrows,1362,10011D,FALSE,,,,,,arrow.uturn.down.square.fill,XXXXX
+,arrows,1363,10013C,FALSE,,,undo,,,arrow.uturn.left,XXXXX
+,arrows,1364,10008E,FALSE,,,undo.circle,,,arrow.uturn.left.circle,XXXXX
+,arrows,1365,10008F,FALSE,,,undo.circle.fill,,,arrow.uturn.left.circle.fill,XXXXX
+,arrows,1366,1007B8,FALSE,,,,,,arrow.uturn.left.circle.badge.ellipsis,NO
+,arrows,1367,10011E,FALSE,,,undo.square,,,arrow.uturn.left.square,XXXXX
+,arrows,1368,10011F,FALSE,,,undo.square.fill,,,arrow.uturn.left.square.fill,XXXXX
+,arrows,1369,10013D,FALSE,,,redo,,,arrow.uturn.right,XXXXX
+,arrows,1370,100090,FALSE,,,redo.circle,,,arrow.uturn.right.circle,XXXXX
+,arrows,1371,100091,FALSE,,,redo.circle.fill,,,arrow.uturn.right.circle.fill,XXXXX
+,arrows,1372,100120,FALSE,,,redo.square,,,arrow.uturn.right.square,XXXXX
+,arrows,1373,100121,FALSE,,,redo.square.fill,,,arrow.uturn.right.square.fill,XXXXX
+,arrows,1374,100479,FALSE,,,,,,arrow.up.and.down,NO
+,arrows,1375,10047A,FALSE,,,,,,arrow.up.and.down.circle,NO
+,arrows,1376,10047B,FALSE,,,,,,arrow.up.and.down.circle.fill,NO
+,arrows,1377,10047C,FALSE,,,,,,arrow.up.and.down.square,NO
+,arrows,1378,10047D,FALSE,,,,,,arrow.up.and.down.square.fill,NO
+,arrows,1380,10013E,FALSE,,,,,,arrow.left.and.right,2194
+,arrows,1381,10047E,FALSE,,,,,,arrow.left.and.right.circle,NO
+,arrows,1382,10047F,FALSE,,,,,,arrow.left.and.right.circle.fill,NO
+,arrows,1383,100480,FALSE,,,,,,arrow.left.and.right.square,NO
+,arrows,1384,100481,FALSE,,,,,,arrow.left.and.right.square.fill,NO
+,arrows,1335,10012C,FALSE,,,sort,,,arrow.up.arrow.down,21C5
+,arrows,1336,10007E,FALSE,,,sort.circle,,,arrow.up.arrow.down.circle,XXXXX
+,arrows,1337,10007F,FALSE,,,sort.circle.fill,,,arrow.up.arrow.down.circle.fill,XXXXX
+,arrows,1338,10010E,FALSE,,,sort.square,,,arrow.up.arrow.down.square,XXXXX
+,arrows,1339,10010F,FALSE,,,sort.square.fill,,,arrow.up.arrow.down.square.fill,XXXXX
+,arrows,1340,10012D,FALSE,,,,,,arrow.right.arrow.left,NO
+,arrows,1341,100080,FALSE,,,,,,arrow.right.arrow.left.circle,NO
+,arrows,1342,100081,FALSE,,,,,,arrow.right.arrow.left.circle.fill,NO
+,arrows,1343,100110,FALSE,,,,,,arrow.right.arrow.left.square,NO
+,arrows,1344,100111,FALSE,,,,,,arrow.right.arrow.left.square.fill,NO
+,arrows,1407,100148,FALSE,,,refresh,,,arrow.clockwise,21BB
+,arrows,1408,100681,FALSE,,,refresh.circle,,,arrow.clockwise.circle,NO
+,arrows,1409,100682,FALSE,,,refresh.circle.fill,,,arrow.clockwise.circle.fill,NO
+,arrows,1410,100149,FALSE,,,,,,arrow.counterclockwise,21BA
+,arrows,1411,100683,FALSE,,,,,,arrow.counterclockwise.circle,NO
+,arrows,1412,100684,FALSE,,,,,,arrow.counterclockwise.circle.fill,NO
+,arrows,1415,10014C,FALSE,,,,,,arrow.2.squarepath,XXXXX
+,arrows,1418,1002AF,FALSE,,,syncing,,,arrow.2.circlepath,XXXXX
+,arrows,1419,10058A,FALSE,,,syncing.circle,,,arrow.2.circlepath.circle,NO
+,arrows,1420,10058B,FALSE,,,syncing.circle.fill,,,arrow.2.circlepath.circle.fill,NO
+,arrows,1421,10065B,FALSE,,,,,,arrow.3.trianglepath,NO
+,"arrows, nature",1422,10065C,FALSE,,,,,,leaf.arrow.circlepath,NO
+,arrows,1424,10065E,FALSE,,,directions.diamond,,,arrow.up.right.diamond,NO
+,arrows,1425,10065F,FALSE,,,directions.diamond.fill,,,arrow.up.right.diamond.fill,NO
+,arrows,1426,100584,FALSE,,,merge,,,arrow.merge,NO
+,arrows,1427,100585,FALSE,,,swap,,,arrow.swap,NO
+,arrows,1428,100660,FALSE,,,divide,,,arrow.branch,NO
+,,242,1001EF,FALSE,,,click,,,rays,XXXXX
+,,243,1001F0,FALSE,,,click.cursor,,,cursor.rays,XXXXX
+,,244,1001F1,FALSE,,,slow.mo,,,slowmo,XXXXX
+,,245,1001F2,FALSE,,,timelapse,,,timelapse,XXXXX
+,"keyboard, hardware",246,1001F3,FALSE,,,keyboard,,,keyboard,XXXXX
+,"keyboard, hardware",247,1004D6,FALSE,,,hide.keyboard,,,keyboard.chevron.compact.down,NO
+,,1091,1004D7,FALSE,,,grid,,,grid,NO
+,,1092,1004D8,FALSE,,,grid.circle,,,grid.circle,NO
+,,1093,10061F,FALSE,,,grid.circle.fill,,,grid.circle.fill,NO
+,,250,1001F4,FALSE,,,,,,rectangle.3.offgrid,XXXXX
+,,251,100685,FALSE,,,,,,rectangle.3.offgrid.fill,NO
+,,254,1001F6,FALSE,,,mission.control,,,rectangle.grid.3x2,XXXXX
+,,255,100686,FALSE,,,,,,rectangle.grid.3x2.fill,NO
+,,252,1001F5,FALSE,,,launchpad,,,square.grid.3x2,XXXXX
+,,253,100687,FALSE,,,,,,square.grid.3x2.fill,NO
+,,256,1001F7,FALSE,,,grid.2x2,,,square.grid.2x2,XXXXX
+,,257,100688,FALSE,,,grid.2x2.fill,,,square.grid.2x2.fill,NO
+,,258,1006E6,FALSE,,,,,,rectangle.grid.2x2,NO
+,,259,1006E7,FALSE,,,,,,rectangle.grid.2x2.fill,NO
+,,261,1004DA,FALSE,,,,,,square.grid.4x3.fill,NO
+,,264,1007BE,FALSE,,,,,,circle.grid.2x2,NO
+,,265,1007BF,FALSE,,,,,,circle.grid.2x2.fill,NO
+,,266,1001F8,FALSE,,,,,,circle.grid.3x3,XXXXX
+,,267,1001F9,FALSE,,,,,,circle.grid.3x3.fill,XXXXX
+,,268,100662,FALSE,,,,,,circle.grid.hex,NO
+,,269,100663,FALSE,,,,,,circle.grid.hex.fill,NO
+,,262,1004DB,FALSE,,,,,,rectangle.grid.1x2,NO
+,,263,100689,FALSE,,,,,,rectangle.grid.1x2.fill,NO
+,"commerce, editing",636,100664,FALSE,,,signature,,,signature,NO
+,,1094,1004DC,FALSE,,,burn,,,burn,NO
+,shapes,1718,100092,FALSE,,,,,,square,20DE
+,shapes,1719,100093,FALSE,,,,,,square.fill,25A0
+,,1720,100693,FALSE,,,,,,square.lefthalf.fill,NO
+,,1721,100694,FALSE,,,,,,square.righthalf.fill,NO
+,shapes,1460,100000,FALSE,,,,,,circle,20DD
+,shapes,1461,100001,FALSE,,,,,,circle.fill,25CF
+,editing,1462,100002,FALSE,,,,,,circle.lefthalf.fill,XXXXX
+,editing,1463,100003,FALSE,,,,,,circle.righthalf.fill,XXXXX
+,shapes,1454,1006E3,FALSE,,,,,,triangle,NO
+,shapes,1455,1006E4,FALSE,,,,,,triangle.fill,NO
+,,1456,100695,FALSE,,,,,,triangle.lefthalf.fill,NO
+,,1457,100696,FALSE,,,,,,triangle.righthalf.fill,NO
+,indicies,1474,100004,FALSE,,,,,,a.circle,24B6
+,indicies,1475,100005,FALSE,,,,,,a.circle.fill,1F150
+,indicies,1476,100006,FALSE,,,,,,b.circle,24B7
+,indicies,1477,100007,FALSE,,,,,,b.circle.fill,1F151
+,indicies,1478,100008,FALSE,,,,,,c.circle,24B8
+,indicies,1479,100009,FALSE,,,,,,c.circle.fill,1F152
+,indicies,1480,10000A,FALSE,,,,,,d.circle,24B9
+,indicies,1481,10000B,FALSE,,,,,,d.circle.fill,1F153
+,indicies,1482,10000C,FALSE,,,,,,e.circle,24BA
+,indicies,1483,10000D,FALSE,,,,,,e.circle.fill,1F154
+,indicies,1484,10000E,FALSE,,,,,,f.circle,24BB
+,indicies,1485,10000F,FALSE,,,,,,f.circle.fill,1F155
+,indicies,1486,100010,FALSE,,,,,,g.circle,24BC
+,indicies,1487,100011,FALSE,,,,,,g.circle.fill,1F156
+,indicies,1488,100012,FALSE,,,,,,h.circle,24BD
+,indicies,1489,100013,FALSE,,,,,,h.circle.fill,1F157
+,indicies,1490,100014,FALSE,,,,,,i.circle,24BE
+,indicies,1491,100015,FALSE,,,,,,i.circle.fill,1F158
+,indicies,1492,100016,FALSE,,,,,,j.circle,24BF
+,indicies,1493,100017,FALSE,,,,,,j.circle.fill,1F159
+,indicies,1494,100018,FALSE,,,,,,k.circle,24C0
+,indicies,1495,100019,FALSE,,,,,,k.circle.fill,1F15A
+,indicies,1496,10001A,FALSE,,,,,,l.circle,24C1
+,indicies,1497,10001B,FALSE,,,,,,l.circle.fill,1F15B
+,indicies,1498,10001C,FALSE,,,,,,m.circle,24C2
+,indicies,1499,10001D,FALSE,,,,,,m.circle.fill,1F15C
+,indicies,1500,10001E,FALSE,,,,,,n.circle,24C3
+,indicies,1501,10001F,FALSE,,,,,,n.circle.fill,1F15D
+,indicies,1502,100020,FALSE,,,,,,o.circle,24C4
+,indicies,1503,100021,FALSE,,,,,,o.circle.fill,1F15E
+,indicies,1504,100022,FALSE,,,,,,p.circle,24C5
+,indicies,1505,100023,FALSE,,,,,,p.circle.fill,1F15F
+,indicies,1506,100024,FALSE,,,,,,q.circle,24C6
+,indicies,1507,100025,FALSE,,,,,,q.circle.fill,1F160
+,indicies,1508,100026,FALSE,,,,,,r.circle,24C7
+,indicies,1509,100027,FALSE,,,,,,r.circle.fill,1F161
+,indicies,1510,100028,FALSE,,,,,,s.circle,24C8
+,indicies,1511,100029,FALSE,,,,,,s.circle.fill,1F162
+,indicies,1512,10002A,FALSE,,,,,,t.circle,24C9
+,indicies,1513,10002B,FALSE,,,,,,t.circle.fill,1F163
+,indicies,1514,10002C,FALSE,,,,,,u.circle,24CA
+,indicies,1515,10002D,FALSE,,,,,,u.circle.fill,1F164
+,indicies,1516,10002E,FALSE,,,,,,v.circle,24CB
+,indicies,1517,10002F,FALSE,,,,,,v.circle.fill,1F165
+,indicies,1518,100030,FALSE,,,,,,w.circle,24CC
+,indicies,1519,100031,FALSE,,,,,,w.circle.fill,1F166
+,indicies,1520,100032,FALSE,,,,,,x.circle,24CD
+,indicies,1521,100033,FALSE,,,,,,x.circle.fill,1F167
+,indicies,1522,100034,FALSE,,,,,,y.circle,24CE
+,indicies,1523,100035,FALSE,,,,,,y.circle.fill,1F168
+,indicies,1524,100036,FALSE,,,,,,z.circle,24CF
+,indicies,1525,100037,FALSE,,,,,,z.circle.fill,1F169
+,indicies,1590,100038,FALSE,,,,,,0.circle,24EA
+,indicies,1591,100039,FALSE,,,,,,0.circle.fill,24FF
+,indicies,1592,10003A,FALSE,,,,,,1.circle,2460
+,indicies,1593,10003B,FALSE,,,,,,1.circle.fill,278A
+,indicies,1594,10003C,FALSE,,,,,,2.circle,2461
+,indicies,1595,10003D,FALSE,,,,,,2.circle.fill,278B
+,indicies,1596,10003E,FALSE,,,,,,3.circle,2462
+,indicies,1597,10003F,FALSE,,,,,,3.circle.fill,278C
+,indicies,1598,100040,FALSE,,,,,,4.circle,2463
+,indicies,1599,100041,FALSE,,,,,,4.circle.fill,278D
+,indicies,1600,100617,FALSE,,,,,,4.alt.circle,NO
+,indicies,1601,100618,FALSE,,,,,,4.alt.circle.fill,NO
+,indicies,1602,100042,FALSE,,,,,,5.circle,2464
+,indicies,1603,100043,FALSE,,,,,,5.circle.fill,278E
+,indicies,1604,100044,FALSE,,,,,,6.circle,2465
+,indicies,1605,100045,FALSE,,,,,,6.circle.fill,278F
+,indicies,1606,100471,FALSE,,,,,,6.alt.circle,XXXXX
+,indicies,1607,100472,FALSE,,,,,,6.alt.circle.fill,XXXXX
+,indicies,1608,100046,FALSE,,,,,,7.circle,2466
+,indicies,1609,100047,FALSE,,,,,,7.circle.fill,2790
+,indicies,1610,100048,FALSE,,,,,,8.circle,2467
+,indicies,1611,100049,FALSE,,,,,,8.circle.fill,2791
+,indicies,1612,10004A,FALSE,,,,,,9.circle,2468
+,indicies,1613,10004B,FALSE,,,,,,9.circle.fill,2792
+,indicies,1614,100473,FALSE,,,,,,9.alt.circle,XXXXX
+,indicies,1615,100474,FALSE,,,,,,9.alt.circle.fill,XXXXX
+,indicies,1189,10005C,FALSE,,,,,,questionmark.circle,XXXXX
+,indicies,1190,10005D,FALSE,,,,,,questionmark.circle.fill,XXXXX
+,indicies,1196,10005E,FALSE,,,,,,exclamationmark.circle,XXXXX
+,indicies,1197,10005F,FALSE,,,,,,exclamationmark.circle.fill,XXXXX
+,indicies,1723,100094,FALSE,,,,,,a.square,1F130
+,indicies,1724,100095,FALSE,,,,,,a.square.fill,1F170
+,indicies,1725,100096,FALSE,,,,,,b.square,1F131
+,indicies,1726,100097,FALSE,,,,,,b.square.fill,1F171
+,indicies,1727,100098,FALSE,,,,,,c.square,1F132
+,indicies,1728,100099,FALSE,,,,,,c.square.fill,1F172
+,indicies,1729,10009A,FALSE,,,,,,d.square,1F133
+,indicies,1730,10009B,FALSE,,,,,,d.square.fill,1F173
+,indicies,1731,10009C,FALSE,,,,,,e.square,1F134
+,indicies,1732,10009D,FALSE,,,,,,e.square.fill,1F174
+,indicies,1733,10009E,FALSE,,,,,,f.square,1F135
+,indicies,1734,10009F,FALSE,,,,,,f.square.fill,1F175
+,indicies,1735,1000A0,FALSE,,,,,,g.square,1F136
+,indicies,1736,1000A1,FALSE,,,,,,g.square.fill,1F176
+,indicies,1737,1000A2,FALSE,,,,,,h.square,1F137
+,indicies,1738,1000A3,FALSE,,,,,,h.square.fill,1F177
+,indicies,1739,1000A4,FALSE,,,,,,i.square,1F138
+,indicies,1740,1000A5,FALSE,,,,,,i.square.fill,1F178
+,indicies,1741,1000A6,FALSE,,,,,,j.square,1F139
+,indicies,1742,1000A7,FALSE,,,,,,j.square.fill,1F179
+,indicies,1743,1000A8,FALSE,,,,,,k.square,1F13A
+,indicies,1744,1000A9,FALSE,,,,,,k.square.fill,1F17A
+,indicies,1745,1000AA,FALSE,,,,,,l.square,1F13B
+,indicies,1746,1000AB,FALSE,,,,,,l.square.fill,1F17B
+,indicies,1747,1000AC,FALSE,,,,,,m.square,1F13C
+,indicies,1748,1000AD,FALSE,,,,,,m.square.fill,1F17C
+,indicies,1749,1000AE,FALSE,,,,,,n.square,1F13D
+,indicies,1750,1000AF,FALSE,,,,,,n.square.fill,1F17D
+,indicies,1751,1000B0,FALSE,,,,,,o.square,1F13E
+,indicies,1752,1000B1,FALSE,,,,,,o.square.fill,1F17E
+,indicies,1753,1000B2,FALSE,,,,,,p.square,1F13F
+,indicies,1754,1000B3,FALSE,,,,,,p.square.fill,1F17F
+,indicies,1755,1000B4,FALSE,,,,,,q.square,1F140
+,indicies,1756,1000B5,FALSE,,,,,,q.square.fill,1F180
+,indicies,1757,1000B6,FALSE,,,,,,r.square,1F141
+,indicies,1758,1000B7,FALSE,,,,,,r.square.fill,1F181
+,indicies,1759,1000B8,FALSE,,,,,,s.square,1F142
+,indicies,1760,1000B9,FALSE,,,,,,s.square.fill,1F182
+,indicies,1761,1000BA,FALSE,,,,,,t.square,1F143
+,indicies,1762,1000BB,FALSE,,,,,,t.square.fill,1F183
+,indicies,1763,1000BC,FALSE,,,,,,u.square,1F144
+,indicies,1764,1000BD,FALSE,,,,,,u.square.fill,1F184
+,indicies,1765,1000BE,FALSE,,,,,,v.square,1F145
+,indicies,1766,1000BF,FALSE,,,,,,v.square.fill,1F185
+,indicies,1767,1000C0,FALSE,,,,,,w.square,1F146
+,indicies,1768,1000C1,FALSE,,,,,,w.square.fill,1F186
+,indicies,1769,1000C2,FALSE,,,,,,x.square,1F147
+,indicies,1770,1000C3,FALSE,,,,,,x.square.fill,1F187
+,indicies,1771,1000C4,FALSE,,,,,,y.square,1F148
+,indicies,1772,1000C5,FALSE,,,,,,y.square.fill,1F188
+,indicies,1773,1000C6,FALSE,,,,,,z.square,1F149
+,indicies,1774,1000C7,FALSE,,,,,,z.square.fill,1F189
+,indicies,1839,1000C8,FALSE,,,,,,0.square,XXXXX
+,indicies,1840,1000C9,FALSE,,,,,,0.square.fill,XXXXX
+,indicies,1841,1000CA,FALSE,,,,,,1.square,XXXXX
+,indicies,1842,1000CB,FALSE,,,,,,1.square.fill,XXXXX
+,indicies,1843,1000CC,FALSE,,,,,,2.square,XXXXX
+,indicies,1844,1000CD,FALSE,,,,,,2.square.fill,XXXXX
+,indicies,1845,1000CE,FALSE,,,,,,3.square,XXXXX
+,indicies,1846,1000CF,FALSE,,,,,,3.square.fill,XXXXX
+,indicies,1847,1000D0,FALSE,,,,,,4.square,XXXXX
+,indicies,1848,1000D1,FALSE,,,,,,4.square.fill,XXXXX
+,indicies,1849,100619,FALSE,,,,,,4.alt.square,NO
+,indicies,1850,10061A,FALSE,,,,,,4.alt.square.fill,NO
+,indicies,1851,1000D2,FALSE,,,,,,5.square,XXXXX
+,indicies,1852,1000D3,FALSE,,,,,,5.square.fill,XXXXX
+,indicies,1853,1000D4,FALSE,,,,,,6.square,XXXXX
+,indicies,1854,1000D5,FALSE,,,,,,6.square.fill,XXXXX
+,indicies,1855,100475,FALSE,,,,,,6.alt.square,XXXXX
+,indicies,1856,100476,FALSE,,,,,,6.alt.square.fill,XXXXX
+,indicies,1857,1000D6,FALSE,,,,,,7.square,XXXXX
+,indicies,1858,1000D7,FALSE,,,,,,7.square.fill,XXXXX
+,indicies,1859,1000D8,FALSE,,,,,,8.square,XXXXX
+,indicies,1860,1000D9,FALSE,,,,,,8.square.fill,XXXXX
+,indicies,1861,1000DA,FALSE,,,,,,9.square,XXXXX
+,indicies,1862,1000DB,FALSE,,,,,,9.square.fill,XXXXX
+,indicies,1863,100477,FALSE,,,,,,9.alt.square,XXXXX
+,indicies,1864,100478,FALSE,,,,,,9.alt.square.fill,XXXXX
+,indicies,1191,1000EC,FALSE,,,,,,questionmark.square,XXXXX
+,indicies,1192,1000ED,FALSE,,,,,,questionmark.square.fill,XXXXX
+,indicies,1198,1000EE,FALSE,,,,,,exclamationmark.square,XXXXX
+,indicies,1199,1000EF,FALSE,,,,,,exclamationmark.square.fill,XXXXX
+,"indicies, commerce",1526,100597,FALSE,,,,,,dollarsign.circle,NO
+,"indicies, commerce",1527,100598,FALSE,,,,,,dollarsign.circle.fill,NO
+,"indicies, commerce",1528,100599,FALSE,,,,,,centsign.circle,NO
+,"indicies, commerce",1529,10059A,FALSE,,,,,,centsign.circle.fill,NO
+,"indicies, commerce",1530,10059B,FALSE,,,,,,yensign.circle,NO
+,"indicies, commerce",1531,10059C,FALSE,,,,,,yensign.circle.fill,NO
+,"indicies, commerce",1532,10059D,FALSE,,,,,,sterlingsign.circle,NO
+,"indicies, commerce",1533,10059E,FALSE,,,,,,sterlingsign.circle.fill,NO
+,"indicies, commerce",1534,10059F,FALSE,,,,,,francsign.circle,NO
+,"indicies, commerce",1535,1005A0,FALSE,,,,,,francsign.circle.fill,NO
+,"indicies, commerce",1536,1005A1,FALSE,,,,,,florinsign.circle,NO
+,"indicies, commerce",1537,1005A2,FALSE,,,,,,florinsign.circle.fill,NO
+,"indicies, commerce",1538,1005A3,FALSE,,,,,,turkishlirasign.circle,NO
+,"indicies, commerce",1539,1005A4,FALSE,,,,,,turkishlirasign.circle.fill,NO
+,"indicies, commerce",1540,1005A5,FALSE,,,,,,rublesign.circle,NO
+,"indicies, commerce",1541,1005A6,FALSE,,,,,,rublesign.circle.fill,NO
+,"indicies, commerce",1542,1005A7,FALSE,,,,,,eurosign.circle,NO
+,"indicies, commerce",1543,1005A8,FALSE,,,,,,eurosign.circle.fill,NO
+,"indicies, commerce",1544,1005A9,FALSE,,,,,,dongsign.circle,NO
+,"indicies, commerce",1545,1005AA,FALSE,,,,,,dongsign.circle.fill,NO
+,"indicies, commerce",1546,1005AB,FALSE,,,,,,indianrupeesign.circle,NO
+,"indicies, commerce",1547,1005AC,FALSE,,,,,,indianrupeesign.circle.fill,NO
+,"indicies, commerce",1548,1005AD,FALSE,,,,,,tengesign.circle,NO
+,"indicies, commerce",1549,1005AE,FALSE,,,,,,tengesign.circle.fill,NO
+,"indicies, commerce",1550,1005AF,FALSE,,,,,,pesetasign.circle,NO
+,"indicies, commerce",1551,1005B0,FALSE,,,,,,pesetasign.circle.fill,NO
+,"indicies, commerce",1552,1005B1,FALSE,,,,,,pesosign.circle,NO
+,"indicies, commerce",1553,1005B2,FALSE,,,,,,pesosign.circle.fill,NO
+,"indicies, commerce",1554,1005B3,FALSE,,,,,,kipsign.circle,NO
+,"indicies, commerce",1555,1005B4,FALSE,,,,,,kipsign.circle.fill,NO
+,"indicies, commerce",1556,1005B5,FALSE,,,,,,wonsign.circle,NO
+,"indicies, commerce",1557,1005B6,FALSE,,,,,,wonsign.circle.fill,NO
+,"indicies, commerce",1558,1005B7,FALSE,,,,,,lirasign.circle,NO
+,"indicies, commerce",1559,1005B8,FALSE,,,,,,lirasign.circle.fill,NO
+,"indicies, commerce",1560,1005B9,FALSE,,,,,,australsign.circle,NO
+,"indicies, commerce",1561,1005BA,FALSE,,,,,,australsign.circle.fill,NO
+,"indicies, commerce",1562,1005BB,FALSE,,,,,,hryvniasign.circle,NO
+,"indicies, commerce",1563,1005BC,FALSE,,,,,,hryvniasign.circle.fill,NO
+,"indicies, commerce",1564,1005BD,FALSE,,,,,,nairasign.circle,NO
+,"indicies, commerce",1565,1005BE,FALSE,,,,,,nairasign.circle.fill,NO
+,"indicies, commerce",1566,1005BF,FALSE,,,,,,guaranisign.circle,NO
+,"indicies, commerce",1567,1005C0,FALSE,,,,,,guaranisign.circle.fill,NO
+,"indicies, commerce",1568,1005C1,FALSE,,,,,,coloncurrencysign.circle,NO
+,"indicies, commerce",1569,1005C2,FALSE,,,,,,coloncurrencysign.circle.fill,NO
+,"indicies, commerce",1570,1005C3,FALSE,,,,,,cedisign.circle,NO
+,"indicies, commerce",1571,1005C4,FALSE,,,,,,cedisign.circle.fill,NO
+,"indicies, commerce",1572,1005C5,FALSE,,,,,,cruzeirosign.circle,NO
+,"indicies, commerce",1573,1005C6,FALSE,,,,,,cruzeirosign.circle.fill,NO
+,"indicies, commerce",1574,1005C7,FALSE,,,,,,tugriksign.circle,NO
+,"indicies, commerce",1575,1005C8,FALSE,,,,,,tugriksign.circle.fill,NO
+,"indicies, commerce",1576,1005C9,FALSE,,,,,,millsign.circle,NO
+,"indicies, commerce",1577,1005CA,FALSE,,,,,,millsign.circle.fill,NO
+,"indicies, commerce",1578,1005CB,FALSE,,,,,,sheqelsign.circle,NO
+,"indicies, commerce",1579,1005CC,FALSE,,,,,,sheqelsign.circle.fill,NO
+,"indicies, commerce",1580,1005CD,FALSE,,,,,,manatsign.circle,NO
+,"indicies, commerce",1581,1005CE,FALSE,,,,,,manatsign.circle.fill,NO
+,"indicies, commerce",1582,1005CF,FALSE,,,,,,rupeesign.circle,NO
+,"indicies, commerce",1583,1005D0,FALSE,,,,,,rupeesign.circle.fill,NO
+,"indicies, commerce",1584,1005D1,FALSE,,,,,,bahtsign.circle,NO
+,"indicies, commerce",1585,1005D2,FALSE,,,,,,bahtsign.circle.fill,NO
+,"indicies, commerce",1586,1005D3,FALSE,,,,,,larisign.circle,NO
+,"indicies, commerce",1587,1005D4,FALSE,,,,,,larisign.circle.fill,NO
+,"indicies, commerce",1588,1005D5,FALSE,,,,,,bitcoinsign.circle,NO
+,"indicies, commerce",1589,1005D6,FALSE,,,,,,bitcoinsign.circle.fill,NO
+,"indicies, commerce",1775,1005D7,FALSE,,,,,,dollarsign.square,NO
+,"indicies, commerce",1776,1005D8,FALSE,,,,,,dollarsign.square.fill,NO
+,"indicies, commerce",1777,1005D9,FALSE,,,,,,centsign.square,NO
+,"indicies, commerce",1778,1005DA,FALSE,,,,,,centsign.square.fill,NO
+,"indicies, commerce",1779,1005DB,FALSE,,,,,,yensign.square,NO
+,"indicies, commerce",1780,1005DC,FALSE,,,,,,yensign.square.fill,NO
+,"indicies, commerce",1781,1005DD,FALSE,,,,,,sterlingsign.square,NO
+,"indicies, commerce",1782,1005DE,FALSE,,,,,,sterlingsign.square.fill,NO
+,"indicies, commerce",1783,1005DF,FALSE,,,,,,francsign.square,NO
+,"indicies, commerce",1784,1005E0,FALSE,,,,,,francsign.square.fill,NO
+,"indicies, commerce",1785,1005E1,FALSE,,,,,,florinsign.square,NO
+,"indicies, commerce",1786,1005E2,FALSE,,,,,,florinsign.square.fill,NO
+,"indicies, commerce",1787,1005E3,FALSE,,,,,,turkishlirasign.square,NO
+,"indicies, commerce",1788,1005E4,FALSE,,,,,,turkishlirasign.square.fill,NO
+,"indicies, commerce",1789,1005E5,FALSE,,,,,,rublesign.square,NO
+,"indicies, commerce",1790,1005E6,FALSE,,,,,,rublesign.square.fill,NO
+,"indicies, commerce",1791,1005E7,FALSE,,,,,,eurosign.square,NO
+,"indicies, commerce",1792,1005E8,FALSE,,,,,,eurosign.square.fill,NO
+,"indicies, commerce",1793,1005E9,FALSE,,,,,,dongsign.square,NO
+,"indicies, commerce",1794,1005EA,FALSE,,,,,,dongsign.square.fill,NO
+,"indicies, commerce",1795,1005EB,FALSE,,,,,,indianrupeesign.square,NO
+,"indicies, commerce",1796,1005EC,FALSE,,,,,,indianrupeesign.square.fill,NO
+,"indicies, commerce",1797,1005ED,FALSE,,,,,,tengesign.square,NO
+,"indicies, commerce",1798,1005EE,FALSE,,,,,,tengesign.square.fill,NO
+,"indicies, commerce",1799,1005EF,FALSE,,,,,,pesetasign.square,NO
+,"indicies, commerce",1800,1005F0,FALSE,,,,,,pesetasign.square.fill,NO
+,"indicies, commerce",1801,1005F1,FALSE,,,,,,pesosign.square,NO
+,"indicies, commerce",1802,1005F2,FALSE,,,,,,pesosign.square.fill,NO
+,"indicies, commerce",1803,1005F3,FALSE,,,,,,kipsign.square,NO
+,"indicies, commerce",1804,1005F4,FALSE,,,,,,kipsign.square.fill,NO
+,"indicies, commerce",1805,1005F5,FALSE,,,,,,wonsign.square,NO
+,"indicies, commerce",1806,1005F6,FALSE,,,,,,wonsign.square.fill,NO
+,"indicies, commerce",1807,1005F7,FALSE,,,,,,lirasign.square,NO
+,"indicies, commerce",1808,1005F8,FALSE,,,,,,lirasign.square.fill,NO
+,"indicies, commerce",1809,1005F9,FALSE,,,,,,australsign.square,NO
+,"indicies, commerce",1810,1005FA,FALSE,,,,,,australsign.square.fill,NO
+,"indicies, commerce",1811,1005FB,FALSE,,,,,,hryvniasign.square,NO
+,"indicies, commerce",1812,1005FC,FALSE,,,,,,hryvniasign.square.fill,NO
+,"indicies, commerce",1813,1005FD,FALSE,,,,,,nairasign.square,NO
+,"indicies, commerce",1814,1005FE,FALSE,,,,,,nairasign.square.fill,NO
+,"indicies, commerce",1815,1005FF,FALSE,,,,,,guaranisign.square,NO
+,"indicies, commerce",1816,100600,FALSE,,,,,,guaranisign.square.fill,NO
+,"indicies, commerce",1817,100601,FALSE,,,,,,coloncurrencysign.square,NO
+,"indicies, commerce",1818,100602,FALSE,,,,,,coloncurrencysign.square.fill,NO
+,"indicies, commerce",1819,100603,FALSE,,,,,,cedisign.square,NO
+,"indicies, commerce",1820,100604,FALSE,,,,,,cedisign.square.fill,NO
+,"indicies, commerce",1821,100605,FALSE,,,,,,cruzeirosign.square,NO
+,"indicies, commerce",1822,100606,FALSE,,,,,,cruzeirosign.square.fill,NO
+,"indicies, commerce",1823,100607,FALSE,,,,,,tugriksign.square,NO
+,"indicies, commerce",1824,100608,FALSE,,,,,,tugriksign.square.fill,NO
+,"indicies, commerce",1825,100609,FALSE,,,,,,millsign.square,NO
+,"indicies, commerce",1826,10060A,FALSE,,,,,,millsign.square.fill,NO
+,"indicies, commerce",1827,10060B,FALSE,,,,,,sheqelsign.square,NO
+,"indicies, commerce",1828,10060C,FALSE,,,,,,sheqelsign.square.fill,NO
+,"indicies, commerce",1829,10060D,FALSE,,,,,,manatsign.square,NO
+,"indicies, commerce",1830,10060E,FALSE,,,,,,manatsign.square.fill,NO
+,"indicies, commerce",1831,10060F,FALSE,,,,,,rupeesign.square,NO
+,"indicies, commerce",1832,100610,FALSE,,,,,,rupeesign.square.fill,NO
+,"indicies, commerce",1833,100611,FALSE,,,,,,bahtsign.square,NO
+,"indicies, commerce",1834,100612,FALSE,,,,,,bahtsign.square.fill,NO
+,"indicies, commerce",1835,100613,FALSE,,,,,,larisign.square,NO
+,"indicies, commerce",1836,100614,FALSE,,,,,,larisign.square.fill,NO
+,"indicies, commerce",1837,100615,FALSE,,,,,,bitcoinsign.square,NO
+,"indicies, commerce",1838,100616,FALSE,,,,,,bitcoinsign.square.fill,NO
+,indicies,1616,1004EB,FALSE,,,,,,00.circle,NO
+,indicies,1617,10050A,FALSE,,,,,,00.circle.fill,NO
+,indicies,1618,1004EC,FALSE,,,,,,01.circle,NO
+,indicies,1619,10050B,FALSE,,,,,,01.circle.fill,NO
+,indicies,1620,1004ED,FALSE,,,,,,02.circle,NO
+,indicies,1621,10050C,FALSE,,,,,,02.circle.fill,NO
+,indicies,1622,1004EE,FALSE,,,,,,03.circle,NO
+,indicies,1623,10050D,FALSE,,,,,,03.circle.fill,NO
+,indicies,1624,1004EF,FALSE,,,,,,04.circle,NO
+,indicies,1625,10050E,FALSE,,,,,,04.circle.fill,NO
+,indicies,1626,1004F0,FALSE,,,,,,05.circle,NO
+,indicies,1627,10050F,FALSE,,,,,,05.circle.fill,NO
+,indicies,1628,1004F1,FALSE,,,,,,06.circle,NO
+,indicies,1629,100510,FALSE,,,,,,06.circle.fill,NO
+,indicies,1630,1004F2,FALSE,,,,,,07.circle,NO
+,indicies,1631,100511,FALSE,,,,,,07.circle.fill,NO
+,indicies,1632,1004F3,FALSE,,,,,,08.circle,NO
+,indicies,1633,100512,FALSE,,,,,,08.circle.fill,NO
+,indicies,1634,1004F4,FALSE,,,,,,09.circle,NO
+,indicies,1635,100513,FALSE,,,,,,09.circle.fill,NO
+,indicies,1636,1004F5,FALSE,,,,,,10.circle,NO
+,indicies,1637,100514,FALSE,,,,,,10.circle.fill,NO
+,indicies,1638,1004F6,FALSE,,,,,,11.circle,NO
+,indicies,1639,100515,FALSE,,,,,,11.circle.fill,NO
+,indicies,1640,1004F7,FALSE,,,,,,12.circle,NO
+,indicies,1641,100516,FALSE,,,,,,12.circle.fill,NO
+,indicies,1642,1004F8,FALSE,,,,,,13.circle,NO
+,indicies,1643,100517,FALSE,,,,,,13.circle.fill,NO
+,indicies,1644,1004F9,FALSE,,,,,,14.circle,NO
+,indicies,1645,100518,FALSE,,,,,,14.circle.fill,NO
+,indicies,1646,1004FA,FALSE,,,,,,15.circle,NO
+,indicies,1647,100519,FALSE,,,,,,15.circle.fill,NO
+,indicies,1648,1004FB,FALSE,,,,,,16.circle,NO
+,indicies,1649,10051A,FALSE,,,,,,16.circle.fill,NO
+,indicies,1650,1004FC,FALSE,,,,,,17.circle,NO
+,indicies,1651,10051B,FALSE,,,,,,17.circle.fill,NO
+,indicies,1652,1004FD,FALSE,,,,,,18.circle,NO
+,indicies,1653,10051C,FALSE,,,,,,18.circle.fill,NO
+,indicies,1654,1004FE,FALSE,,,,,,19.circle,2472
+,indicies,1655,10051D,FALSE,,,,,,19.circle.fill,24F3
+,indicies,1656,1004FF,FALSE,,,,,,20.circle,NO
+,indicies,1657,10051E,FALSE,,,,,,20.circle.fill,NO
+,indicies,1658,100500,FALSE,,,,,,21.circle,NO
+,indicies,1659,10051F,FALSE,,,,,,21.circle.fill,NO
+,indicies,1660,100501,FALSE,,,,,,22.circle,NO
+,indicies,1661,100520,FALSE,,,,,,22.circle.fill,NO
+,indicies,1662,100502,FALSE,,,,,,23.circle,NO
+,indicies,1663,100521,FALSE,,,,,,23.circle.fill,NO
+,indicies,1664,100503,FALSE,,,,,,24.circle,NO
+,indicies,1665,100522,FALSE,,,,,,24.circle.fill,NO
+,indicies,1666,100504,FALSE,,,,,,25.circle,NO
+,indicies,1667,100523,FALSE,,,,,,25.circle.fill,NO
+,indicies,1668,100505,FALSE,,,,,,26.circle,NO
+,indicies,1669,100524,FALSE,,,,,,26.circle.fill,NO
+,indicies,1670,100506,FALSE,,,,,,27.circle,NO
+,indicies,1671,100525,FALSE,,,,,,27.circle.fill,NO
+,indicies,1672,100507,FALSE,,,,,,28.circle,NO
+,indicies,1673,100526,FALSE,,,,,,28.circle.fill,NO
+,indicies,1674,100508,FALSE,,,,,,29.circle,NO
+,indicies,1675,100527,FALSE,,,,,,29.circle.fill,NO
+,indicies,1676,100509,FALSE,,,,,,30.circle,NO
+,indicies,1677,100528,FALSE,,,,,,30.circle.fill,NO
+,indicies,1678,100620,FALSE,,,,,,31.circle,NO
+,indicies,1679,100621,FALSE,,,,,,31.circle.fill,NO
+,indicies,1680,100697,FALSE,,,,,,32.circle,NO
+,indicies,1681,100698,FALSE,,,,,,32.circle.fill,NO
+,indicies,1682,100699,FALSE,,,,,,33.circle,NO
+,indicies,1683,10069A,FALSE,,,,,,33.circle.fill,NO
+,indicies,1684,10069B,FALSE,,,,,,34.circle,NO
+,indicies,1685,10069C,FALSE,,,,,,34.circle.fill,NO
+,indicies,1686,10069D,FALSE,,,,,,35.circle,NO
+,indicies,1687,10069E,FALSE,,,,,,35.circle.fill,NO
+,indicies,1688,10069F,FALSE,,,,,,36.circle,NO
+,indicies,1689,1006A0,FALSE,,,,,,36.circle.fill,NO
+,indicies,1690,1006A1,FALSE,,,,,,37.circle,NO
+,indicies,1691,1006A2,FALSE,,,,,,37.circle.fill,NO
+,indicies,1692,1006A3,FALSE,,,,,,38.circle,NO
+,indicies,1693,1006A4,FALSE,,,,,,38.circle.fill,NO
+,indicies,1694,1006A5,FALSE,,,,,,39.circle,NO
+,indicies,1695,1006A6,FALSE,,,,,,39.circle.fill,NO
+,indicies,1696,1006A7,FALSE,,,,,,40.circle,NO
+,indicies,1697,1006A8,FALSE,,,,,,40.circle.fill,NO
+,indicies,1698,1006A9,FALSE,,,,,,41.circle,NO
+,indicies,1699,1006AA,FALSE,,,,,,41.circle.fill,NO
+,indicies,1700,1006AB,FALSE,,,,,,42.circle,NO
+,indicies,1701,1006AC,FALSE,,,,,,42.circle.fill,NO
+,indicies,1702,1006AD,FALSE,,,,,,43.circle,NO
+,indicies,1703,1006AE,FALSE,,,,,,43.circle.fill,NO
+,indicies,1704,1006AF,FALSE,,,,,,44.circle,NO
+,indicies,1705,1006B0,FALSE,,,,,,44.circle.fill,NO
+,indicies,1706,1006B1,FALSE,,,,,,45.circle,NO
+,indicies,1707,1006B2,FALSE,,,,,,45.circle.fill,NO
+,indicies,1708,1006B3,FALSE,,,,,,46.circle,NO
+,indicies,1709,1006B4,FALSE,,,,,,46.circle.fill,NO
+,indicies,1710,1006B5,FALSE,,,,,,47.circle,NO
+,indicies,1711,1006B6,FALSE,,,,,,47.circle.fill,NO
+,indicies,1712,1006B7,FALSE,,,,,,48.circle,NO
+,indicies,1713,1006B8,FALSE,,,,,,48.circle.fill,NO
+,indicies,1714,1006B9,FALSE,,,,,,49.circle,NO
+,indicies,1715,1006BA,FALSE,,,,,,49.circle.fill,NO
+,indicies,1716,1006BB,FALSE,,,,,,50.circle,NO
+,indicies,1717,1006BC,FALSE,,,,,,50.circle.fill,NO
+,indicies,1865,100529,FALSE,,,,,,00.square,NO
+,indicies,1866,100548,FALSE,,,,,,00.square.fill,NO
+,indicies,1867,10052A,FALSE,,,,,,01.square,NO
+,indicies,1868,100549,FALSE,,,,,,01.square.fill,NO
+,indicies,1869,10052B,FALSE,,,,,,02.square,NO
+,indicies,1870,10054A,FALSE,,,,,,02.square.fill,NO
+,indicies,1871,10052C,FALSE,,,,,,03.square,NO
+,indicies,1872,10054B,FALSE,,,,,,03.square.fill,NO
+,indicies,1873,10052D,FALSE,,,,,,04.square,NO
+,indicies,1874,10054C,FALSE,,,,,,04.square.fill,NO
+,indicies,1875,10052E,FALSE,,,,,,05.square,NO
+,indicies,1876,10054D,FALSE,,,,,,05.square.fill,NO
+,indicies,1877,10052F,FALSE,,,,,,06.square,NO
+,indicies,1878,10054E,FALSE,,,,,,06.square.fill,NO
+,indicies,1879,100530,FALSE,,,,,,07.square,NO
+,indicies,1880,10054F,FALSE,,,,,,07.square.fill,NO
+,indicies,1881,100531,FALSE,,,,,,08.square,NO
+,indicies,1882,100550,FALSE,,,,,,08.square.fill,NO
+,indicies,1883,100532,FALSE,,,,,,09.square,NO
+,indicies,1884,100551,FALSE,,,,,,09.square.fill,NO
+,indicies,1885,100533,FALSE,,,,,,10.square,NO
+,indicies,1886,100552,FALSE,,,,,,10.square.fill,NO
+,indicies,1887,100534,FALSE,,,,,,11.square,NO
+,indicies,1888,100553,FALSE,,,,,,11.square.fill,NO
+,indicies,1889,100535,FALSE,,,,,,12.square,NO
+,indicies,1890,100554,FALSE,,,,,,12.square.fill,NO
+,indicies,1891,100536,FALSE,,,,,,13.square,NO
+,indicies,1892,100555,FALSE,,,,,,13.square.fill,NO
+,indicies,1893,100537,FALSE,,,,,,14.square,NO
+,indicies,1894,100556,FALSE,,,,,,14.square.fill,NO
+,indicies,1895,100538,FALSE,,,,,,15.square,NO
+,indicies,1896,100557,FALSE,,,,,,15.square.fill,NO
+,indicies,1897,100539,FALSE,,,,,,16.square,NO
+,indicies,1898,100558,FALSE,,,,,,16.square.fill,NO
+,indicies,1899,10053A,FALSE,,,,,,17.square,NO
+,indicies,1900,100559,FALSE,,,,,,17.square.fill,NO
+,indicies,1901,10053B,FALSE,,,,,,18.square,NO
+,indicies,1902,10055A,FALSE,,,,,,18.square.fill,NO
+,indicies,1903,10053C,FALSE,,,,,,19.square,NO
+,indicies,1904,10055B,FALSE,,,,,,19.square.fill,NO
+,indicies,1905,10053D,FALSE,,,,,,20.square,NO
+,indicies,1906,10055C,FALSE,,,,,,20.square.fill,NO
+,indicies,1907,10053E,FALSE,,,,,,21.square,NO
+,indicies,1908,10055D,FALSE,,,,,,21.square.fill,NO
+,indicies,1909,10053F,FALSE,,,,,,22.square,NO
+,indicies,1910,10055E,FALSE,,,,,,22.square.fill,NO
+,indicies,1911,100540,FALSE,,,,,,23.square,NO
+,indicies,1912,10055F,FALSE,,,,,,23.square.fill,NO
+,indicies,1913,100541,FALSE,,,,,,24.square,NO
+,indicies,1914,100560,FALSE,,,,,,24.square.fill,NO
+,indicies,1915,100542,FALSE,,,,,,25.square,NO
+,indicies,1916,100561,FALSE,,,,,,25.square.fill,NO
+,indicies,1917,100543,FALSE,,,,,,26.square,NO
+,indicies,1918,100562,FALSE,,,,,,26.square.fill,NO
+,indicies,1919,100544,FALSE,,,,,,27.square,NO
+,indicies,1920,100563,FALSE,,,,,,27.square.fill,NO
+,indicies,1921,100545,FALSE,,,,,,28.square,NO
+,indicies,1922,100564,FALSE,,,,,,28.square.fill,NO
+,indicies,1923,100546,FALSE,,,,,,29.square,NO
+,indicies,1924,100565,FALSE,,,,,,29.square.fill,NO
+,indicies,1925,100547,FALSE,,,,,,30.square,NO
+,indicies,1926,100566,FALSE,,,,,,30.square.fill,NO
+,indicies,1927,100622,FALSE,,,,,,31.square,NO
+,indicies,1928,100623,FALSE,,,,,,31.square.fill,NO
+,indicies,1929,1006BD,FALSE,,,,,,32.square,NO
+,indicies,1930,1006BE,FALSE,,,,,,32.square.fill,NO
+,indicies,1931,1006BF,FALSE,,,,,,33.square,NO
+,indicies,1932,1006C0,FALSE,,,,,,33.square.fill,NO
+,indicies,1933,1006C1,FALSE,,,,,,34.square,NO
+,indicies,1934,1006C2,FALSE,,,,,,34.square.fill,NO
+,indicies,1935,1006C3,FALSE,,,,,,35.square,NO
+,indicies,1936,1006C4,FALSE,,,,,,35.square.fill,NO
+,indicies,1937,1006C5,FALSE,,,,,,36.square,NO
+,indicies,1938,1006C6,FALSE,,,,,,36.square.fill,NO
+,indicies,1939,1006C7,FALSE,,,,,,37.square,NO
+,indicies,1940,1006C8,FALSE,,,,,,37.square.fill,NO
+,indicies,1941,1006C9,FALSE,,,,,,38.square,NO
+,indicies,1942,1006CA,FALSE,,,,,,38.square.fill,NO
+,indicies,1943,1006CB,FALSE,,,,,,39.square,NO
+,indicies,1944,1006CC,FALSE,,,,,,39.square.fill,NO
+,indicies,1945,1006CD,FALSE,,,,,,40.square,NO
+,indicies,1946,1006CE,FALSE,,,,,,40.square.fill,NO
+,indicies,1947,1006CF,FALSE,,,,,,41.square,NO
+,indicies,1948,1006D0,FALSE,,,,,,41.square.fill,NO
+,indicies,1949,1006D1,FALSE,,,,,,42.square,NO
+,indicies,1950,1006D2,FALSE,,,,,,42.square.fill,NO
+,indicies,1951,1006D3,FALSE,,,,,,43.square,NO
+,indicies,1952,1006D4,FALSE,,,,,,43.square.fill,NO
+,indicies,1953,1006D5,FALSE,,,,,,44.square,NO
+,indicies,1954,1006D6,FALSE,,,,,,44.square.fill,NO
+,indicies,1955,1006D7,FALSE,,,,,,45.square,NO
+,indicies,1956,1006D8,FALSE,,,,,,45.square.fill,NO
+,indicies,1957,1006D9,FALSE,,,,,,46.square,NO
+,indicies,1958,1006DA,FALSE,,,,,,46.square.fill,NO
+,indicies,1959,1006DB,FALSE,,,,,,47.square,NO
+,indicies,1960,1006DC,FALSE,,,,,,47.square.fill,NO
+,indicies,1961,1006DD,FALSE,,,,,,48.square,NO
+,indicies,1962,1006DE,FALSE,,,,,,48.square.fill,NO
+,indicies,1963,1006DF,FALSE,,,,,,49.square,NO
+,indicies,1964,1006E0,FALSE,,,,,,49.square.fill,NO
+,indicies,1965,1006E1,FALSE,,,,,,50.square,NO
+,indicies,1966,1006E2,FALSE,,,,,,50.square.fill,NO
+
